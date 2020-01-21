@@ -1,4 +1,4 @@
-class Solution(object):
+class TwoSum(object):
     #用字典实现HashMap，成功
     def twoSum(self, nums, target):
         """
@@ -23,7 +23,7 @@ class Solution(object):
                 return [k,dict.get(complement)]
             
         
-x=Solution()
+x=TwoSum()
 x.twoSum([3,2,4], 6)
 
 """

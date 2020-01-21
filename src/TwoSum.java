@@ -7,7 +7,7 @@ import java.util.Map;
 //        来源：力扣（LeetCode）
 //        链接：https://leetcode-cn.com/problems/two-sum
 //        著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
-class Solution {
+class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int i=0, j=0;
 
@@ -52,7 +52,7 @@ class Solution {
 
 
     public static void main(String[] args){
-        Solution s = new Solution();
+        TwoSum s = new TwoSum();
         s.twoSumB(new int[]{2,5,5,11},10);
     }
 
