@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringNoRepeatCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestSubstringNoRepeatCharacters.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,11 +71,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LongestSubstringNoRepeatCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="178">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#165#183#0" expanded="true" />
+                <element signature="e#289#306#0" expanded="true" />
+                <element signature="e#1003#1022#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,6 +88,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -156,7 +158,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromeNum">
+  <component name="RunManager" selected="Application.LongestSubstringNoRepeatCharacters">
+    <configuration name="LongestSubstringNoRepeatCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubstringNoRepeatCharacters" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PalindromeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromeNum" />
       <module name="leetcode" />
@@ -180,6 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubstringNoRepeatCharacters" />
         <item itemvalue="Application.PalindromeNum" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.TwoSum" />
@@ -200,18 +210,18 @@
       <workItem from="1579481270608" duration="4613000" />
       <workItem from="1579580143462" duration="18092000" />
       <workItem from="1579747809453" duration="6661000" />
-      <workItem from="1579841427205" duration="2572000" />
+      <workItem from="1579841427205" duration="9778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32646000" />
+    <option name="totallyTimeSpent" value="39852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -220,7 +230,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19263457" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19263457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31586403" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,11 +309,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestSubstringNoRepeatCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="178">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#165#183#0" expanded="true" />
+            <element signature="e#289#306#0" expanded="true" />
+            <element signature="e#1003#1022#0" expanded="true" />
           </folding>
         </state>
       </provider>
