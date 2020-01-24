@@ -26,23 +26,23 @@ public class LongestSubstringNoRepeatCharacters {
             return count;
         }
     }
-
+//滑动窗口法
     public int lengthOfLongestSubstring2(String s) {
         int count=0;
+        int lastSame=0;
         Map<Character,Integer> map=new HashMap<Character,Integer>();
         for (int i=0; i<s.length(); i++){
             if (map.containsKey(s.charAt(i))){
-                
-                map.remove(s.charAt(i));
+                lastSame=Math.max(map.get(s.charAt(i))+1,lastSame);
             }
             map.put(s.charAt(i),i);
-            count=Math.max(map.size(),count);
+            count=Math.max(i-lastSame+1,count);
         }
         return count;
     }
 
     public static void main(String[] args){
         LongestSubstringNoRepeatCharacters test=new LongestSubstringNoRepeatCharacters();
-        System.out.println(test.lengthOfLongestSubstring(" "));
+        System.out.println(test.lengthOfLongestSubstring2(" "));
     }
 }
