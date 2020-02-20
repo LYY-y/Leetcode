@@ -1,3 +1,6 @@
+import sys
+
+
 class Solution:
     """    
     依次截取第一个元素的第一个字符，观察其余元素是否满足，
