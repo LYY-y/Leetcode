@@ -87,3 +87,27 @@ class Solution:
 来源：力扣（LeetCode）
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 '''
+
+"""
+优秀解答：
+class Solution:
+    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        head=ListNode(0)
+        cur=head
+        cur1=l1
+        cur2=l2
+        while cur1 and cur2:
+            if cur1.val<=cur2.val:
+                cur.next=cur1
+                cur1=cur1.next
+            else:
+                cur.next=cur2
+                cur2=cur2.next
+            cur=cur.next
+        if cur1:
+            cur.next=cur1
+        if cur2:
+            cur.next=cur2
+        return head.next
+
+"""

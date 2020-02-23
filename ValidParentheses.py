@@ -38,6 +38,79 @@ class Solution:
         if len(strList):
              return False
         return True
+"""
+优秀解答：
+"""
+class Solution:
+    def isValid(self, s: str) -> bool:
+        # left_1, left_2, left_3 = 0, 0, 0
+
+        # if s=='':
+        #     return True
+        # elif len(s)%2 == 1:   # Length of s is odd
+        #     return False
+
+        # for i in range(len(s)):
+        #     if s[i]=='(':
+        #         left_1 += 1
+        #     elif s[i] == ')':
+        #         left_1 -= 1
+        #     elif s[i]=='[':
+        #         left_2 += 1
+        #     elif s[i]==']':
+        #         left_2 -= 1
+        #     elif s[i]=='{':
+        #         left_3 += 1
+        #     elif s[i] == '}':
+        #         left_3 -= 1
+        #     else:
+        #         print('Wrong Input')
+
+        # if left_1 == left_2 == left_3 == 0:
+        #     return True
+        # else:
+        #     return False
+
+
+
+        ################################################################################################
+
+        if s=='':
+            return True
+        elif len(s)%2 == 1:   # Length of s is odd
+            return False
+
+        # The stack to keep track of opening brackets.
+        stack = []
+
+        # Hash map for keeping track of mappings. This keeps the code very clean.
+        # Also makes adding more types of parenthesis easier
+        mapping = {")": "(", "}": "{", "]": "["}
+
+        # For every bracket in the expression.
+        for char in s:
+
+            # If the character is an closing bracket
+            if char in mapping:
+
+                # Pop the topmost element from the stack, if it is non empty
+                # Otherwise assign a dummy value of '#' to the top_element variable
+                if stack and mapping[char] == stack.pop():
+                    pass
+                else:
+                    return False
+
+                # The mapping for the opening bracket in our hash and the top
+                # element of the stack don't match, return False
+                # if mapping[char] != top_element:
+                #     return False
+            else:
+                # We have an opening bracket, simply push it onto the stack.
+                stack.append(char)
+
+        # In the end, if the stack is empty, then we have a valid expression.
+        # The stack won't be empty for cases like ((()
+        return not stack
 
 s=Solution()
 print(s.isValid("){"))
