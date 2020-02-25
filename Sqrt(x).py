@@ -8,6 +8,7 @@
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
 class Solution:
+    '''二分法：'''
     def mySqrt(self, x: int) -> int:
         left=0
         right=x//2
@@ -24,8 +25,24 @@ class Solution:
                 left=mid
         return left
 
+    '''牛顿法'''
+    def mySqrt2(self, x:int) -> int:
+        if x<0:
+            return -1
+        if x==0:
+            return 0
+        temp=1
+        while True:
+            i=temp
+            temp=(temp+x/temp)/2
+            if abs(i-temp) <= 1e-6:
+                return int(i)
+
+
+
+
 s=Solution()
-print(s.mySqrt(15))
+print(s.mySqrt2(15))
 
 """
     def mySqrt(self, x: int) -> int:

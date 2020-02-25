@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqrt(x).py" beforeDir="false" afterPath="$PROJECT_DIR$/Sqrt(x).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,6 +204,7 @@
       <workItem from="1582202973747" duration="4077000" />
       <workItem from="1582422999725" duration="22454000" />
       <workItem from="1582503272329" duration="28012000" />
+      <workItem from="1582597481824" duration="4158000" />
     </task>
     <servers />
   </component>
@@ -210,46 +212,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1582553759666">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1582641985227">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582553759666" />
-    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1582553759666">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582641985227" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1582641985226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582553759666" />
-    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1582553759666">
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582641985226" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1582641985226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582553759666" />
-    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1582553759666">
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582641985226" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1582641985226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582553759666" />
-    <state width="1493" height="218" key="GridCell.Tab.1.bottom" timestamp="1582553759666">
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582641985226" />
+    <state width="1493" height="218" key="GridCell.Tab.1.bottom" timestamp="1582641985227">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582553759666" />
-    <state width="1493" height="218" key="GridCell.Tab.1.center" timestamp="1582553759666">
+    <state width="1493" height="218" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582641985227" />
+    <state width="1493" height="218" key="GridCell.Tab.1.center" timestamp="1582641985227">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582553759666" />
-    <state width="1493" height="218" key="GridCell.Tab.1.left" timestamp="1582553759666">
+    <state width="1493" height="218" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582641985227" />
+    <state width="1493" height="218" key="GridCell.Tab.1.left" timestamp="1582641985227">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582553759666" />
-    <state width="1493" height="218" key="GridCell.Tab.1.right" timestamp="1582553759666">
+    <state width="1493" height="218" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582641985227" />
+    <state width="1493" height="218" key="GridCell.Tab.1.right" timestamp="1582641985227">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582553759666" />
+    <state width="1493" height="218" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582641985227" />
     <state x="272" y="58" key="SettingsEditor" timestamp="1581996708982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581996708982" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582503272329">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582597488604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582503272329" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582597488604" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582511634691">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -270,7 +272,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Sqrt(x).py</url>
-          <line>27</line>
+          <line>44</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
@@ -280,7 +282,7 @@
     <SUITE FILE_PATH="coverage/leetcode$SearchInRotatedSortedArray.coverage" NAME="SearchInRotatedSortedArray Coverage Results" MODIFIED="1582533428633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1582457048977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1582461830936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$Sqrt_x_.coverage" NAME="Sqrt(x) Coverage Results" MODIFIED="1582550817240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$Sqrt_x_.coverage" NAME="Sqrt(x) Coverage Results" MODIFIED="1582600869761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$LongestCommonPrefix.coverage" NAME="LongestCommonPrefix Coverage Results" MODIFIED="1582426942319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$ImplementStrStr__.coverage" NAME="ImplementStrStr() Coverage Results" MODIFIED="1582206338522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$FindFirstAndLastPositionOfElementInSortedArray.coverage" NAME="FindFirstAndLastPositionOfElementInSortedArray Coverage Results" MODIFIED="1582465337957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
