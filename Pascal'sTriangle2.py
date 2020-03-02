@@ -7,4 +7,12 @@
 """
 class Solution:
     def getRow(self, rowIndex: int):
-        if 
+        rows = [1]
+        while len(rows) < rowIndex:
+            rows = list(temp1+temp2 for temp1,temp2 in zip(rows+[0],[0]+rows))
+        return rows
+
+
+s=Solution()
+print(s.getRow(5))
+

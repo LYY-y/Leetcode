@@ -17,6 +17,7 @@ class Solution:
             row+=1
         return result
 
+
 s=Solution()
 print(s.generate(7))
 
