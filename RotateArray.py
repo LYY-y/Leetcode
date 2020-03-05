@@ -42,8 +42,8 @@ class Solution:
             start += 1
             end -=1
         return nums
-
-    def rotate3(self, nums, k: int) -> None:
+#循环环状
+    #def rotate3(self, nums, k: int) -> None:
 
 
 
