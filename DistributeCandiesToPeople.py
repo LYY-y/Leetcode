@@ -29,29 +29,40 @@
 链接：https://leetcode-cn.com/problems/distribute-candies-to-people
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
+'''
+1、累计求和算出共有几次操作
+2、通过操作数计算循环次数
+3、循环外的剩余糖果数依次分发
+'''
 class Solution:
-    def distributeCandies(self, candies: int, num_people: int) :
-        count = 0
-        i = 1
+    def distributeCandies(self, candies: int, num_people: int):
         sum = 0
         result = [0] * num_people
-        while sum  < candies:
-            sum += i
-            count += 1
+        temp = 1
+        i = 0
+        while sum < candies :
+            result[i % num_people] += temp
+            sum += temp
+            temp += 1
             i += 1
-        circles = count // num_people
-        if circles == 0:
-            for i in range(count):
-                result[i] = i + 1
-            result[count] = candies - sum
-        else:
-            for i in range(len(result)):
-                first = i + 1
-                last = first + (circles - 1) * num_people
-                result[i] = ((first + last) * circles) >> 1
-            # resume = count - circles * num_people
+            if i == num_people:
+                i = 0
+        result[i-1] -= sum - candies
+        return result
 
+    #简化上面，但是更慢
+    def distributeCandies(self, candies: int, num_people: int):
+        result = [0] * num_people
+        i = 0
+        while candies != 0:
+            result[i % num_people] += min(i + 1, candies)
+            candies -= min(i + 1, candies)
+            i += 1
         return result
 
 s=Solution()
 print(s.distributeCandies(10,3))
+# print(s.distributeCandies(10,3))
+# print(s.distributeCandies(5,3))
+
+
