@@ -50,9 +50,17 @@ class Solution:
             maxProfit = maxProfit if maxProfit > price - low else (price - low)
             low = low if low < price else price
         return maxProfit
+
+    # 动态规划
+    def maxProfit3(self, prices) -> int:
+        dp_i_0, dp_i_1 = 0, float('-INF')
+        for price in prices:
+            dp_i_0 = max(dp_i_0, dp_i_1 + price)
+            dp_i_1 = max(dp_i_1, -price)
+        return dp_i_0
         
 
 s=Solution()
-print(s.maxProfit([7,1,5,3,6,4]))
-print(s.maxProfit([7,6,4,3,1]))
-print(s.maxProfit([2,4,1,9,5]))
+print(s.maxProfit3([7,1,5,3,6,4]))
+print(s.maxProfit3([7,6,4,3,1]))
+print(s.maxProfit3([2,4,1,9,5]))
