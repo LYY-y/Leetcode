@@ -30,6 +30,9 @@ str1[i] 和 str2[i] 为大写英文字母
 链接：https://leetcode-cn.com/problems/greatest-common-divisor-of-strings
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
+import math
+
+
 class Solution:
     # 枚举
     def gcdOfStrings(self, str1: str, str2: str) -> str:
@@ -39,6 +42,37 @@ class Solution:
                 if str1[:i] * (n1 // i) == str1 and str1[:i] * (n2 // i) == str2:
                     return str1[0:i]
         return ""
+
+    # 枚举优化,61.13,5.83
+    def gcdOfStrings(self, str1: str, str2: str) -> str:
+        candidate_len = math.gcd(len(str1), len(str2))
+        candidate = str1[:candidate_len]
+        if candidate * (len(str1) // candidate_len) == str1 and candidate * (len(str2) // candidate_len) == str2:
+            return candidate
+        return ""
+
+    # 数学,61.13,5.83
+    def gcdOfStrings(self, str1: str, str2: str) -> str:
+        candidate_len = math.gcd(len(str1), len(str2))
+        candidate = str1[:candidate_len]
+        if str1 + str2 == str2 +str1:
+            return candidate
+        return ""
+
+    # 递归 44.21 5.83
+    def gcdOfStrings(self, str1: str, str2: str) -> str:
+        n1, n2 = len(str1), len(str2)
+        if n1 == n2:
+            if str1 != str2:
+                return ""
+            else:
+                return str1
+        if n1 < n2:
+            return self.gcdOfStrings(str2[:n1], str2[n1:])
+        if n1 > n2:
+            return self.gcdOfStrings(str1[:n2], str1[n2:])
+
+
 
 
 

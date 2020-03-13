@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-bitAnd2-bitCharacters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindPivotIndex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlippingAnImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LargestNumberAtLeastTwiceOfOthers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MagicSquaresInGrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinCostClimbingStairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PositionOfLargeGroups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToeplitzMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximizeDistanceToClosestPerson.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,6 +226,7 @@
       <workItem from="1583805780880" duration="10792000" />
       <workItem from="1583889650488" duration="27660000" />
       <workItem from="1583968861827" duration="32453000" />
+      <workItem from="1584055554025" duration="5424000" />
     </task>
     <servers />
   </component>
@@ -259,22 +253,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583890801765" />
-    <state width="723" height="166" key="GridCell.Tab.0.bottom" timestamp="1584020606490">
+    <state width="723" height="166" key="GridCell.Tab.0.bottom" timestamp="1584058085623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="166" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584020606490" />
-    <state width="723" height="166" key="GridCell.Tab.0.center" timestamp="1584020606490">
+    <state width="723" height="166" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584058085623" />
+    <state width="723" height="166" key="GridCell.Tab.0.center" timestamp="1584058085623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="166" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584020606490" />
-    <state width="723" height="166" key="GridCell.Tab.0.left" timestamp="1584020606490">
+    <state width="723" height="166" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584058085623" />
+    <state width="723" height="166" key="GridCell.Tab.0.left" timestamp="1584058085623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="166" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584020606490" />
-    <state width="723" height="166" key="GridCell.Tab.0.right" timestamp="1584020606490">
+    <state width="723" height="166" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584058085623" />
+    <state width="723" height="166" key="GridCell.Tab.0.right" timestamp="1584058085623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="166" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584020606490" />
+    <state width="723" height="166" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584058085623" />
     <state width="723" height="200" key="GridCell.Tab.1.bottom" timestamp="1584020606486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -295,10 +289,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583988007864" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1583968902723">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584055556938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583968902723" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584055556938" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -546,11 +540,6 @@
           <line>41</line>
           <option name="timeStamp" value="199" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="201" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -578,7 +567,7 @@
     <SUITE FILE_PATH="coverage/leetcode$MergeSortedArray.coverage" NAME="MergeSortedArray Coverage Results" MODIFIED="1583056305563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$DegreeOfAnArray.coverage" NAME="DegreeOfAnArray Coverage Results" MODIFIED="1583969773804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MissingNumber.coverage" NAME="MissingNumber Coverage Results" MODIFIED="1583552431194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$GreatestCommonDivisorOfStrings.coverage" NAME="GreatestCommonDivisorOfStrings Coverage Results" MODIFIED="1584020579927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$GreatestCommonDivisorOfStrings.coverage" NAME="GreatestCommonDivisorOfStrings Coverage Results" MODIFIED="1584058085612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MaximumProductOfThreeNumbers.coverage" NAME="MaximumProductOfThreeNumbers Coverage Results" MODIFIED="1583744981848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$LargestNumberAtLeastTwiceOfOthers.coverage" NAME="LargestNumberAtLeastTwiceOfOthers Coverage Results" MODIFIED="1583981658924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$LongestCommonPrefix.coverage" NAME="LongestCommonPrefix Coverage Results" MODIFIED="1582426942319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
