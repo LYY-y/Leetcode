@@ -32,16 +32,86 @@ seats 中只含有 0 和 1，至少有一个 0，且至少有一个 1。
 链接：https://leetcode-cn.com/problems/maximize-distance-to-closest-person
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
+import math
 class Solution:
     # 记录开头连续0，结尾连续0，中间连续0的最大值/2，三者取最大值
     def maxDistToClosest(self, seats) -> int:
-        count, i, n = 0, 0, len(seats)
+        count0, count, i, n = 0, 0, 0, len(seats)
+        for j in range(n-1, -1 , -1):
+            if seats[j] == 1:
+                count0 = max(count0, n - j - 1)
+                break
+        if j == 0:
+            return count0
         while seats[i] != 1:
             i += 1
-        count = i
+        count0 = max(count0, i)
         if i == n - 1:
-            return count
-        else:
+            return count0
+        i += 1
+        begin = i
+        while i < n:
+            if seats[i] == 1:
+                count = max(count, i - begin)
+                begin = i + 1
+            i += 1
+        return max(math.ceil(count / 2), count0)
+
+    # 记录1的位置，求最大的差值, 47.84  14.86
+    def maxDistToClosest(self, seats) -> int:
+        arr, maxDist = [], 0
+        for i, seat in enumerate(seats):
+            if seat == 1:
+                arr.append(i)
+        maxDist = max(arr[0], len(seats) - arr[-1] - 1)
+        for i in range(len(arr) - 1):
+            maxDist = max(maxDist, (arr[i+1] - arr[i]) >> 1)
+        return maxDist
+
+    # 优秀解答
+    def maxDistToClosest(self, seats) -> int:
+        max_len = 1
+        length = 0
+        pre_len = -1
+        for i, seat in enumerate(seats):
+            if seat == 0:
+                length += 1
+            else:
+                if length > 0:
+                    if pre_len < 0 and seats[0] == 0:
+                        pre_len = length
+                    elif length > max_len:
+                        max_len = length
+                    length = 0
+        return max(max_len // 2 + max_len % 2, pre_len, length)
+
+    # 优秀解答，从左右两边记录
+    def maxDistToClosest(self, seats) -> int:
+        N = len(seats)
+        left, right = [N] * N, [N] * N
+
+        for i in range(N):
+            if seats[i] == 1:
+                left[i] = 0
+            elif i > 0:
+                left[i] = left[i - 1] + 1
+
+        for i in range(N - 1, -1, -1):
+            if seats[i] == 1:
+                right[i] = 0
+            elif i < N - 1:
+                right[i] = right[i + 1] + 1
+        return max(min(left[i], right[i]) for i, seat in enumerate(seats) if not seat)
+
+
+
+
+s=Solution()
+print(2, s.maxDistToClosest([1,0,0,0,1,0,1]))
+print(3, s.maxDistToClosest([1,0,0,0]))
+print(1, s.maxDistToClosest([1,0,0,1]))
+print(2, s.maxDistToClosest([0,0,1,0,1,1]))
+
             
 
 

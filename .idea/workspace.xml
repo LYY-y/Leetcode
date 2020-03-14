@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MaximizeDistanceToClosestPerson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FairCandySwap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MonotonicArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortArrayByParity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortArrayByParity2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TransposeMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XOfAKindInADeckOfCards.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximizeDistanceToClosestPerson.py" beforeDir="false" afterPath="$PROJECT_DIR$/MaximizeDistanceToClosestPerson.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +60,8 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GreatestCommonDivisorOfStrings">
-    <configuration name="FlippingAnImage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SortArrayByParity2">
+    <configuration name="FairCandySwap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +74,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlippingAnImage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FairCandySwap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GreatestCommonDivisorOfStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MonotonicArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +96,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MonotonicArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MagicSquaresInGrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SortArrayByParity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +118,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MagicSquaresInGrid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortArrayByParity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PositionOfLargeGroups" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SortArrayByParity2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +140,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PositionOfLargeGroups.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortArrayByParity2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ToeplitzMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="XOfAKindInADeckOfCards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,7 +162,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToeplitzMatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XOfAKindInADeckOfCards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GreatestCommonDivisorOfStrings" />
-        <item itemvalue="Python.MagicSquaresInGrid" />
-        <item itemvalue="Python.FlippingAnImage" />
-        <item itemvalue="Python.PositionOfLargeGroups" />
-        <item itemvalue="Python.ToeplitzMatrix" />
+        <item itemvalue="Python.SortArrayByParity2" />
+        <item itemvalue="Python.XOfAKindInADeckOfCards" />
+        <item itemvalue="Python.SortArrayByParity" />
+        <item itemvalue="Python.MonotonicArray" />
+        <item itemvalue="Python.FairCandySwap" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +231,8 @@
       <workItem from="1583805780880" duration="10792000" />
       <workItem from="1583889650488" duration="27660000" />
       <workItem from="1583968861827" duration="32453000" />
-      <workItem from="1584055554025" duration="5424000" />
+      <workItem from="1584055554025" duration="6057000" />
+      <workItem from="1584143162146" duration="27891000" />
     </task>
     <servers />
   </component>
@@ -253,46 +259,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583890801765" />
-    <state width="723" height="166" key="GridCell.Tab.0.bottom" timestamp="1584058085623">
+    <state width="1493" height="278" key="GridCell.Tab.0.bottom" timestamp="1584191500610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="166" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584058085623" />
-    <state width="723" height="166" key="GridCell.Tab.0.center" timestamp="1584058085623">
+    <state width="1493" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584191500610" />
+    <state width="1493" height="278" key="GridCell.Tab.0.center" timestamp="1584191500610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="166" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584058085623" />
-    <state width="723" height="166" key="GridCell.Tab.0.left" timestamp="1584058085623">
+    <state width="1493" height="278" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584191500610" />
+    <state width="1493" height="278" key="GridCell.Tab.0.left" timestamp="1584191500610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="166" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584058085623" />
-    <state width="723" height="166" key="GridCell.Tab.0.right" timestamp="1584058085623">
+    <state width="1493" height="278" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584191500610" />
+    <state width="1493" height="278" key="GridCell.Tab.0.right" timestamp="1584191500610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="166" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584058085623" />
-    <state width="723" height="200" key="GridCell.Tab.1.bottom" timestamp="1584020606486">
+    <state width="1493" height="278" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584191500610" />
+    <state width="1493" height="278" key="GridCell.Tab.1.bottom" timestamp="1584191500610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="200" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584020606486" />
-    <state width="723" height="200" key="GridCell.Tab.1.center" timestamp="1584020606486">
+    <state width="1493" height="278" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584191500610" />
+    <state width="1493" height="278" key="GridCell.Tab.1.center" timestamp="1584191500610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="200" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584020606486" />
-    <state width="723" height="200" key="GridCell.Tab.1.left" timestamp="1584020606486">
+    <state width="1493" height="278" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584191500610" />
+    <state width="1493" height="278" key="GridCell.Tab.1.left" timestamp="1584191500610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="200" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584020606486" />
-    <state width="723" height="200" key="GridCell.Tab.1.right" timestamp="1584020606486">
+    <state width="1493" height="278" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584191500610" />
+    <state width="1493" height="278" key="GridCell.Tab.1.right" timestamp="1584191500610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="200" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584020606486" />
+    <state width="1493" height="278" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584191500610" />
     <state x="272" y="58" key="SettingsEditor" timestamp="1583988007864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583988007864" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584055556938">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584143168359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584055556938" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584143168359" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -540,16 +546,43 @@
           <line>41</line>
           <option name="timeStamp" value="199" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MaximizeDistanceToClosestPerson.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransposeMatrix.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairCandySwap.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MonotonicArray.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SortArrayByParity2.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$Pascal_sTriangle.coverage" NAME="Pascal'sTriangle Coverage Results" MODIFIED="1583110225965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$FairCandySwap.coverage" NAME="FairCandySwap Coverage Results" MODIFIED="1584174008080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$BestTimeToBuyAndSellStock2.coverage" NAME="BestTimeToBuyAndSellStock2 Coverage Results" MODIFIED="1583147505620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$ImageSmoother.coverage" NAME="ImageSmoother Coverage Results" MODIFIED="1583844406817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$Non_decreasingArray.coverage" NAME="Non-decreasingArray Coverage Results" MODIFIED="1583914930254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$PartionArrayIntoThreePartsWithEqualSum.coverage" NAME="PartionArrayIntoThreePartsWithEqualSum Coverage Results" MODIFIED="1583895377982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$FindPivotIndex.coverage" NAME="FindPivotIndex Coverage Results" MODIFIED="1583975452017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$SortArrayByParity.coverage" NAME="SortArrayByParity Coverage Results" MODIFIED="1584177522760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$PositionOfLargeGroups.coverage" NAME="PositionOfLargeGroups Coverage Results" MODIFIED="1583989353283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$TwoSum2.coverage" NAME="TwoSum2 Coverage Results" MODIFIED="1583243518883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$DistributeCandiesToPeople.coverage" NAME="DistributeCandiesToPeople Coverage Results" MODIFIED="1583499848718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -562,6 +595,7 @@
     <SUITE FILE_PATH="coverage/leetcode$Sqrt_x_.coverage" NAME="Sqrt(x) Coverage Results" MODIFIED="1582600869761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$1_bitAnd2_bitCharacters.coverage" NAME="1-bitAnd2-bitCharacters Coverage Results" MODIFIED="1583981097901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MaximumSubarry.coverage" NAME="MaximumSubarry Coverage Results" MODIFIED="1583035019290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$XOfAKindInADeckOfCards.coverage" NAME="XOfAKindInADeckOfCards Coverage Results" MODIFIED="1584185926882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1582457048977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MaximumAverageSubarray1.coverage" NAME="MaximumAverageSubarray1 Coverage Results" MODIFIED="1583748155475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MergeSortedArray.coverage" NAME="MergeSortedArray Coverage Results" MODIFIED="1583056305563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -580,6 +614,7 @@
     <SUITE FILE_PATH="coverage/leetcode$ArrayPartition1.coverage" NAME="ArrayPartition1 Coverage Results" MODIFIED="1583730425786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$ToeplitzMatrix.coverage" NAME="ToeplitzMatrix Coverage Results" MODIFIED="1583983417779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MoveZeros.coverage" NAME="MoveZeros Coverage Results" MODIFIED="1583563526646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$SortArrayByParity2.coverage" NAME="SortArrayByParity2 Coverage Results" MODIFIED="1584191500597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$BestTimeToBuyAndSellStock.coverage" NAME="BestTimeToBuyAndSellStock Coverage Results" MODIFIED="1583753309846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MaximumValueOfQueue.coverage" NAME="MaximumValueOfQueue Coverage Results" MODIFIED="1583545848086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MaxConsecutiveOnes.coverage" NAME="MaxConsecutiveOnes Coverage Results" MODIFIED="1583715230832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -587,11 +622,14 @@
     <SUITE FILE_PATH="coverage/leetcode$MagicSquaresInGrid.coverage" NAME="MagicSquaresInGrid Coverage Results" MODIFIED="1584012776744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$FindAllNumbersDisappearedInArray.coverage" NAME="FindAllNumbersDisappearedInArray Coverage Results" MODIFIED="1583660080737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$PlusOne.coverage" NAME="PlusOne Coverage Results" MODIFIED="1583052968680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$TransposeMatrix.coverage" NAME="TransposeMatrix Coverage Results" MODIFIED="1584154467346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$FibonacciNumber.coverage" NAME="FibonacciNumber Coverage Results" MODIFIED="1583721457044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$FlippingAnImage.coverage" NAME="FlippingAnImage Coverage Results" MODIFIED="1584001588201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$RotateArray.coverage" NAME="RotateArray Coverage Results" MODIFIED="1583306198780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$MonotonicArray.coverage" NAME="MonotonicArray Coverage Results" MODIFIED="1584176113495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1582461830936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$LongestContinuousIncreasingSubsequence.coverage" NAME="LongestContinuousIncreasingSubsequence Coverage Results" MODIFIED="1583923973142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$MaximizeDistanceToClosestPerson.coverage" NAME="MaximizeDistanceToClosestPerson Coverage Results" MODIFIED="1584153103785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$ImplementStrStr__.coverage" NAME="ImplementStrStr() Coverage Results" MODIFIED="1582206338522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="masterDetails">
