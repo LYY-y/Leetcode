@@ -26,7 +26,7 @@ A.length % 2 == 0
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
 class Solution:
-    # 53.95 5.81
+    #两次遍历 53.95 5.81
     def sortArrayByParityII(self, A):
         i, n, evens, odds = 0, len(A), [], []
         for a in range(0,n-1,2):
@@ -39,6 +39,15 @@ class Solution:
             A[evens[i]], A[odds[i]] = A[odds[i]], A[evens[i]]
         return A
 
+    # 双指针 75.97, 5.85
+    def sortArrayByParityII(self, A):
+        odd = 1
+        for even in range(0, len(A), 2):
+            if A[even] & 1 != 0:
+                while A[odd] & 1 != 0:
+                    odd += 2
+                A[even], A[odd] = A[odd], A[even]
+        return A
 
 s=Solution()
 print(s.sortArrayByParityII([4,2,5,7]))
