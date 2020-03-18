@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryPrefixDivisibleBy5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindCommonCharacters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindWordsThatCanBeFormedByCharacters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PairsOfSongsWithTotalDurationsDivisibleBy60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/AddTwoNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DuplicateZeros.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/HeightChecker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LongestSubstringNoRepeatCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PalindromeNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ReverseInteger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/TwoSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeightChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RelativeSortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NumberOfEquivalentDominoPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/RectangleOverlap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/RelativeSortArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfEquivalentDominoPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectangleOverlap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvailableCapturesForRook.py" beforeDir="false" afterPath="$PROJECT_DIR$/AvailableCapturesForRook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/AddTwoNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LongestSubstringNoRepeatCharacters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/PalindromeNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/DuplicateZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DuplicateZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RelativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RelativeSortArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +56,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateZeros">
+  <component name="RunManager" selected="Application.NumberOfEquivalentDominoPairs">
     <configuration name="DuplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateZeros" />
       <module name="leetcode" />
@@ -96,6 +80,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberOfEquivalentDominoPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfEquivalentDominoPairs" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleOverlap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleOverlap" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelativeSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RelativeSortArray" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="leetcode" />
       <method v="2">
@@ -106,9 +111,15 @@
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.DuplicateZeros" />
+      <item itemvalue="Application.RelativeSortArray" />
+      <item itemvalue="Application.RectangleOverlap" />
+      <item itemvalue="Application.NumberOfEquivalentDominoPairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfEquivalentDominoPairs" />
+        <item itemvalue="Application.RectangleOverlap" />
+        <item itemvalue="Application.RelativeSortArray" />
         <item itemvalue="Application.DuplicateZeros" />
       </list>
     </recent_temporary>
@@ -174,6 +185,8 @@
       <workItem from="1584435405507" duration="31000" />
       <workItem from="1584435460588" duration="10844000" />
       <workItem from="1584456162396" duration="9000" />
+      <workItem from="1584503741480" duration="7676000" />
+      <workItem from="1584524606023" duration="5856000" />
     </task>
     <servers />
   </component>
@@ -212,46 +225,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584452957865" />
-    <state width="724" height="261" key="GridCell.Tab.0.bottom" timestamp="1584459859385">
+    <state width="724" height="210" key="GridCell.Tab.0.bottom" timestamp="1584534023256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584459859385" />
-    <state width="724" height="261" key="GridCell.Tab.0.center" timestamp="1584459859385">
+    <state width="724" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584534023256" />
+    <state width="724" height="210" key="GridCell.Tab.0.center" timestamp="1584534023256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584459859385" />
-    <state width="724" height="261" key="GridCell.Tab.0.left" timestamp="1584459859385">
+    <state width="724" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584534023256" />
+    <state width="724" height="210" key="GridCell.Tab.0.left" timestamp="1584534023256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584459859385" />
-    <state width="724" height="261" key="GridCell.Tab.0.right" timestamp="1584459859385">
+    <state width="724" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584534023256" />
+    <state width="724" height="210" key="GridCell.Tab.0.right" timestamp="1584534023256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584459859385" />
-    <state width="724" height="261" key="GridCell.Tab.1.bottom" timestamp="1584459859385">
+    <state width="724" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584534023256" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584515232684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584459859385" />
-    <state width="724" height="261" key="GridCell.Tab.1.center" timestamp="1584459859385">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584515232684" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1584515232684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584459859385" />
-    <state width="724" height="261" key="GridCell.Tab.1.left" timestamp="1584459859385">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584515232684" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1584515232684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584459859385" />
-    <state width="724" height="261" key="GridCell.Tab.1.right" timestamp="1584459859385">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584515232684" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1584515232684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584459859385" />
-    <state x="253" y="0" key="SettingsEditor" timestamp="1584453011385">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584515232684" />
+    <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584453011385" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584456163254">
+    <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584524613376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584456163254" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584524613376" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -278,6 +291,16 @@
           <url>file://$PROJECT_DIR$/src/DuplicateZeros.java</url>
           <line>44</line>
           <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RelativeSortArray.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RectangleOverlap.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="303" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

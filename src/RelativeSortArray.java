@@ -24,12 +24,36 @@
  * 链接：https://leetcode-cn.com/problems/relative-sort-array
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。*/
 public class RelativeSortArray {
+    // 100 5.08
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
         int[] nums = new int[1001];
         int[] res = new int[arr1.length];
         int i = 0;
-        for (int num2 : arr2){
-            while ()
+        for (int num1 : arr1){
+            nums[num1]++;
         }
+        for (int num2 : arr2){
+            while (nums[num2] != 0){
+                res[i] = num2;
+                nums[num2]--;
+                i++;
+            }
+        }
+        for (int j=0; j<nums.length; j++){
+            while (nums[j] != 0){
+                res[i] = j;
+                nums[j]--;
+                i++;
+            }
+        }
+        return res;
+    }
+
+    public static void main(String[] args){
+        RelativeSortArray a = new RelativeSortArray();
+        System.out.println(a.relativeSortArray(new int[]{2,3,1,3,2,4,6,7,9,2,19}, new int[]{2,1,4,3,9,6}));
     }
 }
+
+
+
