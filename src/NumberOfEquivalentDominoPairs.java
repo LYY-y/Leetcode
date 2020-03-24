@@ -1,3 +1,5 @@
+import java.util.Map;
+
 /**1128.等价多米诺骨牌对的数量
  * 给你一个由一些多米诺骨牌组成的列表 dominoes。
  *
@@ -21,19 +23,19 @@
  * 1 <= dominoes[i][j] <= 9
  * */
 public class NumberOfEquivalentDominoPairs {
+    //90.09 93.38
     public int numEquivDominoPairs(int[][] dominoes) {
-        int i = 0;
-        int j = 0;
         int res = 0;
-        while (i < dominoes.length - 1){
-            j = i + 1;
-            while (j < dominoes.length) {
-                if (dominoes[i][0] + dominoes[i][1] - dominoes[j][0] == dominoes[j][1]) {
-                    res++;
-                }
-                j++;
+        int[] map = new int[100];
+        for (int i = 0; i < dominoes.length; i++){
+            if (dominoes[i][0] > dominoes[i][1]){
+                map[dominoes[i][1] * 10 + dominoes[i][0]]++;
+            }else {
+                map[dominoes[i][0] * 10 + dominoes[i][1]]++;
             }
-            i++;
+        }
+        for (int i : map){
+            res += i * (i - 1) / 2;
         }
         return res;
     }
