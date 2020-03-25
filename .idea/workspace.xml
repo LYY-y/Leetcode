@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/TheMasseuseLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TheMasseuseLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CompareStringsByFrequencyOfTheSmallestCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DayOfTheWeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DistanceBetweenBusStop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SurfaceAreaOf3DShapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DistanceBetweenBusStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimimAbsoluteDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SurfaceAreaOf3DShapes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/NumberOfEquivalentDominoPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/NumberOfEquivalentDominoPairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberOfEquivalentDominoPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberOfEquivalentDominoPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/TheMasseuseLCCI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/TheMasseuseLCCI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +67,23 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberOfEquivalentDominoPairs">
-    <configuration name="DuplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateZeros" />
+  <component name="RunManager" selected="Application.DayOfTheWeek">
+    <configuration name="CompareStringsByFrequencyOfTheSmallestCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareStringsByFrequencyOfTheSmallestCharacter" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfTheWeek" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistanceBetweenBusStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DistanceBetweenBusStop" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,22 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleOverlap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RectangleOverlap" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RelativeSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RelativeSortArray" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TheMasseuseLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheMasseuseLCCI" />
+    <configuration name="SurfaceAreaOf3DShapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SurfaceAreaOf3DShapes" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,19 +121,19 @@
     <list>
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.DuplicateZeros" />
-      <item itemvalue="Application.RelativeSortArray" />
-      <item itemvalue="Application.RectangleOverlap" />
       <item itemvalue="Application.NumberOfEquivalentDominoPairs" />
-      <item itemvalue="Application.TheMasseuseLCCI" />
+      <item itemvalue="Application.SurfaceAreaOf3DShapes" />
+      <item itemvalue="Application.CompareStringsByFrequencyOfTheSmallestCharacter" />
+      <item itemvalue="Application.DistanceBetweenBusStop" />
+      <item itemvalue="Application.DayOfTheWeek" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayOfTheWeek" />
+        <item itemvalue="Application.DistanceBetweenBusStop" />
+        <item itemvalue="Application.CompareStringsByFrequencyOfTheSmallestCharacter" />
+        <item itemvalue="Application.SurfaceAreaOf3DShapes" />
         <item itemvalue="Application.NumberOfEquivalentDominoPairs" />
-        <item itemvalue="Application.TheMasseuseLCCI" />
-        <item itemvalue="Application.RectangleOverlap" />
-        <item itemvalue="Application.RelativeSortArray" />
-        <item itemvalue="Application.DuplicateZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +200,8 @@
       <workItem from="1584456162396" duration="9000" />
       <workItem from="1584503741480" duration="7676000" />
       <workItem from="1584524606023" duration="5857000" />
-      <workItem from="1585040288928" duration="12581000" />
+      <workItem from="1585040288928" duration="12684000" />
+      <workItem from="1585095530031" duration="29436000" />
     </task>
     <servers />
   </component>
@@ -233,54 +240,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584452957865" />
-    <state width="726" height="326" key="GridCell.Tab.0.bottom" timestamp="1585049766187">
+    <state width="723" height="179" key="GridCell.Tab.0.bottom" timestamp="1585146728111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="326" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585049766187" />
-    <state width="726" height="326" key="GridCell.Tab.0.center" timestamp="1585049766187">
+    <state width="723" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
+    <state width="723" height="179" key="GridCell.Tab.0.center" timestamp="1585146728111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="326" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585049766187" />
-    <state width="726" height="326" key="GridCell.Tab.0.left" timestamp="1585049766187">
+    <state width="723" height="179" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
+    <state width="723" height="179" key="GridCell.Tab.0.left" timestamp="1585146728111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="326" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585049766187" />
-    <state width="726" height="326" key="GridCell.Tab.0.right" timestamp="1585049766187">
+    <state width="723" height="179" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
+    <state width="723" height="179" key="GridCell.Tab.0.right" timestamp="1585146728111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="326" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585049766187" />
-    <state width="726" height="326" key="GridCell.Tab.1.bottom" timestamp="1585049766187">
+    <state width="723" height="179" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
+    <state width="723" height="179" key="GridCell.Tab.1.bottom" timestamp="1585146728111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="326" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585049766187" />
-    <state width="726" height="326" key="GridCell.Tab.1.center" timestamp="1585049766187">
+    <state width="723" height="179" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
+    <state width="723" height="179" key="GridCell.Tab.1.center" timestamp="1585146728111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="326" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585049766187" />
-    <state width="726" height="326" key="GridCell.Tab.1.left" timestamp="1585049766187">
+    <state width="723" height="179" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
+    <state width="723" height="179" key="GridCell.Tab.1.left" timestamp="1585146728111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="326" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585049766187" />
-    <state width="726" height="326" key="GridCell.Tab.1.right" timestamp="1585049766187">
+    <state width="723" height="179" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
+    <state width="723" height="179" key="GridCell.Tab.1.right" timestamp="1585146728111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="326" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585049766187" />
+    <state width="723" height="179" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585040308701">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585095529982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585040308701" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585095529982" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583560016506" />
-    <state x="809" y="189" key="run.anything.popup" timestamp="1585048690268">
+    <state x="809" y="189" key="run.anything.popup" timestamp="1585125894249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585048690268" />
+    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585125894249" />
     <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584317730029">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -313,6 +320,21 @@
           <url>file://$PROJECT_DIR$/src/RectangleOverlap.java</url>
           <line>42</line>
           <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DistanceBetweenBusStop.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="330" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
