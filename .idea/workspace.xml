@@ -2,18 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/CompareStringsByFrequencyOfTheSmallestCharacter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DayOfTheWeek.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DistanceBetweenBusStop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SurfaceAreaOf3DShapes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DistanceBetweenBusStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimimAbsoluteDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SurfaceAreaOf3DShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CellsWithOddValuesInAMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CheckIfItIsAStraightLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ElementAppearingMoreThan25InSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FindWinnerOnATicTacToeGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimimAbsoluteDifference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinumumRTimeVisitingAllPoints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PlayWIthChips.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Shift2DGrid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CellsWithOddValuesInAMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckIfItIsAStraightLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElementAppearingMoreThan25InSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindWinnerOnATicTacToeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinumumRTimeVisitingAllPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlayWIthChips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shift2DGrid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/NumberOfEquivalentDominoPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/NumberOfEquivalentDominoPairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/TheMasseuseLCCI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/TheMasseuseLCCI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/DayOfTheWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DayOfTheWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimimAbsoluteDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimimAbsoluteDifference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,23 +73,23 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DayOfTheWeek">
-    <configuration name="CompareStringsByFrequencyOfTheSmallestCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompareStringsByFrequencyOfTheSmallestCharacter" />
+  <component name="RunManager" selected="Application.ElementAppearingMoreThan25InSortedArray">
+    <configuration name="CellsWithOddValuesInAMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CellsWithOddValuesInAMatrix" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOfTheWeek" />
+    <configuration name="ElementAppearingMoreThan25InSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElementAppearingMoreThan25InSortedArray" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistanceBetweenBusStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DistanceBetweenBusStop" />
+    <configuration name="FindWinnerOnATicTacToeGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindWinnerOnATicTacToeGame" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,15 +104,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfEquivalentDominoPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberOfEquivalentDominoPairs" />
+    <configuration name="MinumumRTimeVisitingAllPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinumumRTimeVisitingAllPoints" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurfaceAreaOf3DShapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SurfaceAreaOf3DShapes" />
+    <configuration name="Shift2DGrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shift2DGrid" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,19 +127,19 @@
     <list>
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.NumberOfEquivalentDominoPairs" />
-      <item itemvalue="Application.SurfaceAreaOf3DShapes" />
-      <item itemvalue="Application.CompareStringsByFrequencyOfTheSmallestCharacter" />
-      <item itemvalue="Application.DistanceBetweenBusStop" />
-      <item itemvalue="Application.DayOfTheWeek" />
+      <item itemvalue="Application.CellsWithOddValuesInAMatrix" />
+      <item itemvalue="Application.Shift2DGrid" />
+      <item itemvalue="Application.MinumumRTimeVisitingAllPoints" />
+      <item itemvalue="Application.FindWinnerOnATicTacToeGame" />
+      <item itemvalue="Application.ElementAppearingMoreThan25InSortedArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DayOfTheWeek" />
-        <item itemvalue="Application.DistanceBetweenBusStop" />
-        <item itemvalue="Application.CompareStringsByFrequencyOfTheSmallestCharacter" />
-        <item itemvalue="Application.SurfaceAreaOf3DShapes" />
-        <item itemvalue="Application.NumberOfEquivalentDominoPairs" />
+        <item itemvalue="Application.ElementAppearingMoreThan25InSortedArray" />
+        <item itemvalue="Application.FindWinnerOnATicTacToeGame" />
+        <item itemvalue="Application.MinumumRTimeVisitingAllPoints" />
+        <item itemvalue="Application.Shift2DGrid" />
+        <item itemvalue="Application.CellsWithOddValuesInAMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +208,7 @@
       <workItem from="1584524606023" duration="5857000" />
       <workItem from="1585040288928" duration="12684000" />
       <workItem from="1585095530031" duration="29436000" />
+      <workItem from="1585179921907" duration="21113000" />
     </task>
     <servers />
   </component>
@@ -240,58 +247,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584452957865" />
-    <state width="723" height="179" key="GridCell.Tab.0.bottom" timestamp="1585146728111">
+    <state width="724" height="176" key="GridCell.Tab.0.bottom" timestamp="1585223080598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
-    <state width="723" height="179" key="GridCell.Tab.0.center" timestamp="1585146728111">
+    <state width="724" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585223080598" />
+    <state width="724" height="176" key="GridCell.Tab.0.center" timestamp="1585223080597">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="179" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
-    <state width="723" height="179" key="GridCell.Tab.0.left" timestamp="1585146728111">
+    <state width="724" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585223080597" />
+    <state width="724" height="176" key="GridCell.Tab.0.left" timestamp="1585223080597">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="179" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
-    <state width="723" height="179" key="GridCell.Tab.0.right" timestamp="1585146728111">
+    <state width="724" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585223080597" />
+    <state width="724" height="176" key="GridCell.Tab.0.right" timestamp="1585223080597">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="179" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
-    <state width="723" height="179" key="GridCell.Tab.1.bottom" timestamp="1585146728111">
+    <state width="724" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585223080597" />
+    <state width="724" height="176" key="GridCell.Tab.1.bottom" timestamp="1585223080598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="179" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
-    <state width="723" height="179" key="GridCell.Tab.1.center" timestamp="1585146728111">
+    <state width="724" height="176" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585223080598" />
+    <state width="724" height="176" key="GridCell.Tab.1.center" timestamp="1585223080598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="179" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
-    <state width="723" height="179" key="GridCell.Tab.1.left" timestamp="1585146728111">
+    <state width="724" height="176" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585223080598" />
+    <state width="724" height="176" key="GridCell.Tab.1.left" timestamp="1585223080598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="179" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
-    <state width="723" height="179" key="GridCell.Tab.1.right" timestamp="1585146728111">
+    <state width="724" height="176" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585223080598" />
+    <state width="724" height="176" key="GridCell.Tab.1.right" timestamp="1585223080598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="179" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585146728111" />
+    <state width="724" height="176" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585223080598" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585095529982">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585179944180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585095529982" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585179944180" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583560016506" />
-    <state x="809" y="189" key="run.anything.popup" timestamp="1585125894249">
+    <state x="809" y="189" key="run.anything.popup" timestamp="1585192990430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585125894249" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584317730029">
+    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585192990430" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585194120876">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584317730029" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585194120876" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -335,6 +342,21 @@
           <url>file://$PROJECT_DIR$/src/DistanceBetweenBusStop.java</url>
           <line>78</line>
           <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CheckIfItIsAStraightLine.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CellsWithOddValuesInAMatrix.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Shift2DGrid.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="344" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
