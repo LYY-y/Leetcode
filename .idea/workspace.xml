@@ -2,38 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/AsFarFromLandAsPossible.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CheckIfNAndItsDoubleExist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CheckPermutationLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CountNegativeNumbersInASortedMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CreateTargetArrayInTheGivenOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/FindTheDistanceValueBetweenTwoArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/HowManyNumbersAreSmallerThanTheCurrentNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/IsUniqueLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LuckyNumbersInAMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MagicIndexLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/RankTransformOfAnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ShortEncodingOfWords$Trie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ShortEncodingOfWords$TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ShortEncodingOfWords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SortedMergeLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/TheKWeakestRowsInAMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AsFarFromLandAsPossible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckIfNAndItsDoubleExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckPermutationLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountNegativeNumbersInASortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreateTargetArrayInTheGivenOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindTheDistanceValueBetweenTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HowManyNumbersAreSmallerThanTheCurrentNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsUniqueLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LuckyNumbersInAMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MagicIndexLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RankTransformOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortEncodingOfWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortedMergeLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TheKWeakestRowsInAMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FindLuckyIntegerInAnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MasterMindLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/TheLastNumberLeftInTheCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindLuckyIntegerInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasterMindLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheLastNumberLeftInTheCircle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/DecompressRun_LengthEncodedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DecompressRun_LengthEncodedList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,16 +62,9 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortedMergeLCCI">
-    <configuration name="AsFarFromLandAsPossible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AsFarFromLandAsPossible" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateTargetArrayInTheGivenOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreateTargetArrayInTheGivenOrder" />
+  <component name="RunManager" selected="Application.HeightChecker">
+    <configuration name="FindLuckyIntegerInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindLuckyIntegerInAnArray" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,15 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowManyNumbersAreSmallerThanTheCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HowManyNumbersAreSmallerThanTheCurrentNumber" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LuckyNumbersInAMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LuckyNumbersInAMatrix" />
+    <configuration name="MasterMindLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MasterMindLCCI" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,30 +93,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TheLastNumberLeftInTheCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheLastNumberLeftInTheCircle" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BinaryPrefixDivisibleBy5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryPrefixDivisibleBy5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.HowManyNumbersAreSmallerThanTheCurrentNumber" />
-      <item itemvalue="Application.LuckyNumbersInAMatrix" />
-      <item itemvalue="Application.AsFarFromLandAsPossible" />
-      <item itemvalue="Application.CreateTargetArrayInTheGivenOrder" />
+      <item itemvalue="Application.FindLuckyIntegerInAnArray" />
+      <item itemvalue="Application.MasterMindLCCI" />
       <item itemvalue="Application.SortedMergeLCCI" />
+      <item itemvalue="Application.TheLastNumberLeftInTheCircle" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SortedMergeLCCI" />
-        <item itemvalue="Application.CreateTargetArrayInTheGivenOrder" />
-        <item itemvalue="Application.AsFarFromLandAsPossible" />
-        <item itemvalue="Application.LuckyNumbersInAMatrix" />
-        <item itemvalue="Application.HowManyNumbersAreSmallerThanTheCurrentNumber" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -226,6 +206,8 @@
       <workItem from="1585302171007" duration="11869000" />
       <workItem from="1585353606545" duration="29979000" />
       <workItem from="1585454443294" duration="13095000" />
+      <workItem from="1585527649830" duration="11644000" />
+      <workItem from="1585558535841" duration="34000" />
     </task>
     <servers />
   </component>
@@ -236,14 +218,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="484" y="48" key="#BinaryPrefixDivisibleBy5" timestamp="1585558552225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="48" key="#BinaryPrefixDivisibleBy5/0.0.1536.824@0.0.1536.824" timestamp="1585558552225" />
     <state x="722" y="74" key="#Project_Structure" timestamp="1584447809063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="722" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584447809063" />
-    <state x="346" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584452934946">
+    <state x="346" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585558545223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="346" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584452934946" />
+    <state x="346" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585558545223" />
     <state x="487" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583549114786">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -264,198 +250,57 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584452957865" />
-    <state width="725" height="203" key="GridCell.Tab.0.bottom" timestamp="1585486467336">
+    <state width="726" height="266" key="GridCell.Tab.0.bottom" timestamp="1585565668234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585486467336" />
-    <state width="725" height="203" key="GridCell.Tab.0.center" timestamp="1585486467336">
+    <state width="726" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
+    <state width="726" height="266" key="GridCell.Tab.0.center" timestamp="1585565668234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585486467336" />
-    <state width="725" height="203" key="GridCell.Tab.0.left" timestamp="1585486467336">
+    <state width="726" height="266" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
+    <state width="726" height="266" key="GridCell.Tab.0.left" timestamp="1585565668233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585486467336" />
-    <state width="725" height="203" key="GridCell.Tab.0.right" timestamp="1585486467336">
+    <state width="726" height="266" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585565668233" />
+    <state width="726" height="266" key="GridCell.Tab.0.right" timestamp="1585565668234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585486467336" />
-    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1585486467330">
+    <state width="726" height="266" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
+    <state width="726" height="266" key="GridCell.Tab.1.bottom" timestamp="1585565668234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585486467330" />
-    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1585486467330">
+    <state width="726" height="266" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
+    <state width="726" height="266" key="GridCell.Tab.1.center" timestamp="1585565668234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585486467330" />
-    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1585486467330">
+    <state width="726" height="266" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
+    <state width="726" height="266" key="GridCell.Tab.1.left" timestamp="1585565668234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585486467330" />
-    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1585486467330">
+    <state width="726" height="266" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
+    <state width="726" height="266" key="GridCell.Tab.1.right" timestamp="1585565668234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585486467330" />
+    <state width="726" height="266" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585454443549">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585527651303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585454443549" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585527651303" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583560016506" />
-    <state x="809" y="189" key="run.anything.popup" timestamp="1585461528814">
+    <state x="809" y="189" key="run.anything.popup" timestamp="1585541441058">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585461528814" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585194120876">
+    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585541441058" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585528833372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585194120876" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DuplicateZeros.java</url>
-          <line>76</line>
-          <option name="timeStamp" value="293" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DuplicateZeros.java</url>
-          <line>75</line>
-          <option name="timeStamp" value="294" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DuplicateZeros.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="295" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RelativeSortArray.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="299" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RectangleOverlap.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="303" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="311" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CompareStringsByFrequencyOfTheSmallestCharacter.java</url>
-          <line>88</line>
-          <option name="timeStamp" value="313" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DistanceBetweenBusStop.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="330" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CheckIfItIsAStraightLine.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="333" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CellsWithOddValuesInAMatrix.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="339" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Shift2DGrid.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="344" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/XOfAKindInADeckOfCards.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="348" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReplaceElementWithGreatestElementOnRightSide.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="352" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReplaceElementWithGreatestElementOnRightSide.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="354" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FindNUniqueIntegersSumUpToZero.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="357" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RankTransformOfAnArray.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="367" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TheKWeakestRowsInAMatrix.java</url>
-          <line>83</line>
-          <option name="timeStamp" value="383" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CheckIfNAndItsDoubleExist.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="393" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HowManyNumbersAreSmallerThanTheCurrentNumber.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="398" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HowManyNumbersAreSmallerThanTheCurrentNumber.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="399" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HowManyNumbersAreSmallerThanTheCurrentNumber.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="402" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LuckyNumbersInAMatrix.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="403" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/AsFarFromLandAsPossible.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="406" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CreateTargetArrayInTheGivenOrder.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="411" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortedMergeLCCI.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="413" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortedMergeLCCI.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="415" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortedMergeLCCI.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="416" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585528833372" />
   </component>
 </project>
