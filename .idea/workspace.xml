@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/FindLuckyIntegerInAnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MasterMindLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/TheLastNumberLeftInTheCircle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindLuckyIntegerInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasterMindLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TheLastNumberLeftInTheCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SortAnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,14 +58,7 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeightChecker">
-    <configuration name="FindLuckyIntegerInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindLuckyIntegerInAnArray" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SortAnArray">
     <configuration name="HeightChecker" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -81,6 +70,13 @@
     </configuration>
     <configuration name="MasterMindLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MasterMindLCCI" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortAnArray" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +127,16 @@
     <list>
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.FindLuckyIntegerInAnArray" />
       <item itemvalue="Application.MasterMindLCCI" />
       <item itemvalue="Application.SortedMergeLCCI" />
       <item itemvalue="Application.TheLastNumberLeftInTheCircle" />
+      <item itemvalue="Application.SortAnArray" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortAnArray" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -208,6 +209,7 @@
       <workItem from="1585454443294" duration="13095000" />
       <workItem from="1585527649830" duration="11644000" />
       <workItem from="1585558535841" duration="34000" />
+      <workItem from="1585649370199" duration="2474000" />
     </task>
     <servers />
   </component>
@@ -250,57 +252,68 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584452957865" />
-    <state width="726" height="266" key="GridCell.Tab.0.bottom" timestamp="1585565668234">
+    <state width="723" height="243" key="GridCell.Tab.0.bottom" timestamp="1585656588900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
-    <state width="726" height="266" key="GridCell.Tab.0.center" timestamp="1585565668234">
+    <state width="723" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585656588900" />
+    <state width="723" height="243" key="GridCell.Tab.0.center" timestamp="1585656588900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="266" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
-    <state width="726" height="266" key="GridCell.Tab.0.left" timestamp="1585565668233">
+    <state width="723" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585656588900" />
+    <state width="723" height="243" key="GridCell.Tab.0.left" timestamp="1585656588899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="266" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585565668233" />
-    <state width="726" height="266" key="GridCell.Tab.0.right" timestamp="1585565668234">
+    <state width="723" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585656588899" />
+    <state width="723" height="243" key="GridCell.Tab.0.right" timestamp="1585656588900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="266" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
-    <state width="726" height="266" key="GridCell.Tab.1.bottom" timestamp="1585565668234">
+    <state width="723" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585656588900" />
+    <state width="723" height="243" key="GridCell.Tab.1.bottom" timestamp="1585656588900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="266" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
-    <state width="726" height="266" key="GridCell.Tab.1.center" timestamp="1585565668234">
+    <state width="723" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585656588900" />
+    <state width="723" height="243" key="GridCell.Tab.1.center" timestamp="1585656588900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="266" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
-    <state width="726" height="266" key="GridCell.Tab.1.left" timestamp="1585565668234">
+    <state width="723" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585656588900" />
+    <state width="723" height="243" key="GridCell.Tab.1.left" timestamp="1585656588900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="266" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
-    <state width="726" height="266" key="GridCell.Tab.1.right" timestamp="1585565668234">
+    <state width="723" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585656588900" />
+    <state width="723" height="243" key="GridCell.Tab.1.right" timestamp="1585656588900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="266" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585565668234" />
+    <state width="723" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585656588900" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585527651303">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585649379981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585527651303" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585649379981" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583560016506" />
-    <state x="809" y="189" key="run.anything.popup" timestamp="1585541441058">
+    <state x="809" y="189" key="run.anything.popup" timestamp="1585655192596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585541441058" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585528833372">
+    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585655192596" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585656260988">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585528833372" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585656260988" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortAnArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
