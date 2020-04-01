@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/SortAnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumNestingDepthOfTwoValidParenthesesStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,6 +209,7 @@
       <workItem from="1585527649830" duration="11644000" />
       <workItem from="1585558535841" duration="34000" />
       <workItem from="1585649370199" duration="2474000" />
+      <workItem from="1585750086258" duration="2040000" />
     </task>
     <servers />
   </component>
@@ -288,10 +288,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585649379981">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585750089633">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585649379981" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585750089633" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -300,10 +300,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585655192596" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585656260988">
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585750518849">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585656260988" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585750518849" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
