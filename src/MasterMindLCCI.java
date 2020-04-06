@@ -14,24 +14,42 @@ import java.util.Map;
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。*/
 public class MasterMindLCCI {
     public int[] masterMind(String solution, String guess) {
-        List<Character> map = new ArrayList<>();
+        int[] s = check(solution);
+        int[] g = check(guess);
         int right = 0;
-        int error = 0;
-        for (int i = 0; i < 4; i++){
-             map.add(solution.charAt(i));
+        int f_right = 0;
+        for (int i = 0; i < s.length; i++){
+            if (solution.charAt(i) == guess.charAt(i)){
+                right++;
+            }
+            f_right += s[i] < g[i] ? s[i] : g[i];
         }
-        for (int j = 0; j < 4; j++){
-            char ch = guess.charAt(j);
-            if (map.contains(ch)){
-                if (map.get(j) == ch){
-                    right++;
-                    map.set(j,'0');
-                }
-            }else {
-                error++;
+        return new int[]{right, f_right - right};
+    }
+
+    //数组从0-3依次代表R、Y、G、B
+    public int[] check(String str){
+        int[] color = new int[4];
+        for (int i = 0; i < color.length; i++){
+            char ch = str.charAt(i);
+            if (ch == 'R') {
+                color[0]++;
+                continue;
+            }
+            if (ch == 'Y'){
+                color[1]++;
+                continue;
+            }
+            if (ch == 'G'){
+                color[2]++;
+                continue;
+            }
+            if (ch == 'B'){
+                color[3]++;
+                continue;
             }
         }
-        return new int[]{right, 4-right-error};
+        return color;
     }
 
     public static void main(String[] args){

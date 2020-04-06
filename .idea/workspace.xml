@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/TrappingRainWater.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AAATools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ContiguousSequenceLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CountLargestGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/LCOF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAATools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContiguousSequenceLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountLargestGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LCOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MissingNumberLCCI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/GameOfLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/GameOfLife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/MasterMindLCCI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/MasterMindLCCI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MasterMindLCCI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MasterMindLCCI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +64,25 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JAVA\leetcode\src" />
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TrappingRainWater">
+  <component name="RunManager" selected="Application.ContiguousSequenceLCCI">
+    <configuration name="AAATools" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAATools" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContiguousSequenceLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContiguousSequenceLCCI" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GameOfLife" />
       <module name="leetcode" />
@@ -76,15 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortAnArray" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TheLastNumberLeftInTheCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheLastNumberLeftInTheCircle" />
+    <configuration name="MasterMindLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MasterMindLCCI" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,41 +119,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryPrefixDivisibleBy5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryPrefixDivisibleBy5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.TheLastNumberLeftInTheCircle" />
-      <item itemvalue="Application.SortAnArray" />
       <item itemvalue="Application.GameOfLife" />
       <item itemvalue="Application.TrappingRainWater" />
+      <item itemvalue="Application.MasterMindLCCI" />
+      <item itemvalue="Application.AAATools" />
+      <item itemvalue="Application.ContiguousSequenceLCCI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContiguousSequenceLCCI" />
+        <item itemvalue="Application.AAATools" />
+        <item itemvalue="Application.MasterMindLCCI" />
         <item itemvalue="Application.TrappingRainWater" />
         <item itemvalue="Application.GameOfLife" />
-        <item itemvalue="Application.SortAnArray" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +214,8 @@
       <workItem from="1585804961414" duration="4609000" />
       <workItem from="1585820068136" duration="54000" />
       <workItem from="1585964611553" duration="4461000" />
+      <workItem from="1586073861059" duration="5075000" />
+      <workItem from="1586151808463" duration="15243000" />
     </task>
     <servers />
   </component>
@@ -259,58 +258,62 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584452957865" />
-    <state width="720" height="242" key="GridCell.Tab.0.bottom" timestamp="1585977830598">
+    <state width="989" height="246" key="GridCell.Tab.0.bottom" timestamp="1586186696651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="720" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585977830598" />
-    <state width="720" height="242" key="GridCell.Tab.0.center" timestamp="1585977830598">
+    <state width="989" height="246" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586186696651" />
+    <state width="989" height="246" key="GridCell.Tab.0.center" timestamp="1586186696651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="720" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585977830598" />
-    <state width="720" height="242" key="GridCell.Tab.0.left" timestamp="1585977830598">
+    <state width="989" height="246" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586186696651" />
+    <state width="989" height="246" key="GridCell.Tab.0.left" timestamp="1586186696649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="720" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585977830598" />
-    <state width="720" height="242" key="GridCell.Tab.0.right" timestamp="1585977830598">
+    <state width="989" height="246" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586186696649" />
+    <state width="989" height="246" key="GridCell.Tab.0.right" timestamp="1586186696651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="720" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585977830598" />
-    <state width="720" height="242" key="GridCell.Tab.1.bottom" timestamp="1585977830598">
+    <state width="989" height="246" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586186696651" />
+    <state width="989" height="246" key="GridCell.Tab.1.bottom" timestamp="1586186696651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="720" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585977830598" />
-    <state width="720" height="242" key="GridCell.Tab.1.center" timestamp="1585977830598">
+    <state width="989" height="246" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586186696651" />
+    <state width="989" height="246" key="GridCell.Tab.1.center" timestamp="1586186696651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="720" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585977830598" />
-    <state width="720" height="242" key="GridCell.Tab.1.left" timestamp="1585977830598">
+    <state width="989" height="246" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586186696651" />
+    <state width="989" height="246" key="GridCell.Tab.1.left" timestamp="1586186696651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="720" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585977830598" />
-    <state width="720" height="242" key="GridCell.Tab.1.right" timestamp="1585977830598">
+    <state width="989" height="246" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586186696651" />
+    <state width="989" height="246" key="GridCell.Tab.1.right" timestamp="1586186696651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="720" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585977830598" />
+    <state width="989" height="246" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586186696651" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585964723467">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586151808358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585964723467" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586151808358" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583560016506" />
+    <state x="356" y="31" key="new project wizard" timestamp="1586165022326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="31" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586165022326" />
     <state x="809" y="189" key="run.anything.popup" timestamp="1585976700551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585976700551" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585750518849">
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586089115737">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585750518849" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586089115737" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -326,9 +329,19 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TrappingRainWater.java</url>
-          <line>28</line>
+          <url>file://$PROJECT_DIR$/src/MasterMindLCCI.java</url>
+          <line>26</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContiguousSequenceLCCI.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContiguousSequenceLCCI.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
