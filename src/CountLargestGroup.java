@@ -7,7 +7,38 @@
  * 链接：https://leetcode-cn.com/problems/count-largest-group
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。*/
 public class CountLargestGroup {
+    //100
     public int countLargestGroup(int n) {
-        return 0;
+        int[] dic = new int[37];
+        for (int i = 1; i <= n; i++){
+            int temp = 0;
+            int k = i;
+            while (k > 0){
+                temp += k % 10;
+                k /= 10;
+            }
+            dic[temp]++;
+        }
+        int res = 1;
+        int m = 0;
+        for (int j = 0; j < 37; j++){
+            if (m < dic[j]){
+                m = dic[j];
+                res = 1;
+                continue;
+            }
+            if (m == dic[j]){
+                res++;
+            }
+        }
+        return res;
+    }
+
+    public static void main(String[] args){
+        CountLargestGroup c = new CountLargestGroup();
+        System.out.println(c.countLargestGroup(13));
+        System.out.println(c.countLargestGroup(2));
+        System.out.println(c.countLargestGroup(15));
+        System.out.println(c.countLargestGroup(24));
     }
 }
