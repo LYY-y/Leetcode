@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/ConvertBinaryNumberInALinkedListToInteger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DeleteNodeInALinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MiddleOfTheLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PalindromeLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ReverseLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertBinaryNumberInALinkedListToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteNodeInALinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/KthNodeFromEndOfListLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/RemoveDuplicateNodeLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthNodeFromEndOfListLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateNodeLCCI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/RemoveLinkedListElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/RemoveLinkedListElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveLinkedListElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveLinkedListElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ConvertBinaryNumberInALinkedListToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/ConvertBinaryNumberInALinkedListToInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertBinaryNumberInALinkedListToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConvertBinaryNumberInALinkedListToInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,7 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertBinaryNumberInALinkedListToInteger">
+  <component name="RunManager" selected="Application.KthNodeFromEndOfListLCCI">
     <configuration name="ConvertBinaryNumberInALinkedListToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConvertBinaryNumberInALinkedListToInteger" />
       <module name="leetcode" />
@@ -93,6 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KthNodeFromEndOfListLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthNodeFromEndOfListLCCI" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PalindromeLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromeLinkedList" />
       <module name="leetcode" />
@@ -100,15 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveLinkedListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveLinkedListElements" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList" />
+    <configuration name="RemoveDuplicateNodeLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateNodeLCCI" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,19 +117,19 @@
     <list>
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.RemoveLinkedListElements" />
-      <item itemvalue="Application.ReverseLinkedList" />
       <item itemvalue="Application.PalindromeLinkedList" />
       <item itemvalue="Application.DeleteNodeInALinkedList" />
       <item itemvalue="Application.ConvertBinaryNumberInALinkedListToInteger" />
+      <item itemvalue="Application.RemoveDuplicateNodeLCCI" />
+      <item itemvalue="Application.KthNodeFromEndOfListLCCI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthNodeFromEndOfListLCCI" />
+        <item itemvalue="Application.RemoveDuplicateNodeLCCI" />
         <item itemvalue="Application.ConvertBinaryNumberInALinkedListToInteger" />
         <item itemvalue="Application.DeleteNodeInALinkedList" />
         <item itemvalue="Application.PalindromeLinkedList" />
-        <item itemvalue="Application.ReverseLinkedList" />
-        <item itemvalue="Application.RemoveLinkedListElements" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +215,7 @@
       <workItem from="1586253577470" duration="10392000" />
       <workItem from="1586309745591" duration="23024000" />
       <workItem from="1586393146145" duration="18496000" />
+      <workItem from="1586480028635" duration="15491000" />
     </task>
     <servers />
   </component>
@@ -255,10 +250,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1003" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584435793316" />
-    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1583409884200">
+    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1586495609601">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="433" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1583409884200" />
+    <state width="433" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1586495609601" />
     <state x="626" y="156" key="EnvironmentVariablesDialog" timestamp="1584449062624">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -267,46 +262,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584452957865" />
-    <state width="724" height="177" key="GridCell.Tab.0.bottom" timestamp="1586424814139">
+    <state width="725" height="176" key="GridCell.Tab.0.bottom" timestamp="1586501857482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586424814139" />
-    <state width="724" height="177" key="GridCell.Tab.0.center" timestamp="1586424814139">
+    <state width="725" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586501857482" />
+    <state width="725" height="176" key="GridCell.Tab.0.center" timestamp="1586501857482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586424814139" />
-    <state width="724" height="177" key="GridCell.Tab.0.left" timestamp="1586424814139">
+    <state width="725" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586501857482" />
+    <state width="725" height="176" key="GridCell.Tab.0.left" timestamp="1586501857482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586424814139" />
-    <state width="724" height="177" key="GridCell.Tab.0.right" timestamp="1586424814139">
+    <state width="725" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586501857482" />
+    <state width="725" height="176" key="GridCell.Tab.0.right" timestamp="1586501857482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586424814139" />
-    <state width="724" height="235" key="GridCell.Tab.1.bottom" timestamp="1586424814134">
+    <state width="725" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586501857482" />
+    <state width="724" height="226" key="GridCell.Tab.1.bottom" timestamp="1586501857457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="235" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586424814134" />
-    <state width="724" height="235" key="GridCell.Tab.1.center" timestamp="1586424814134">
+    <state width="724" height="226" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586501857457" />
+    <state width="724" height="226" key="GridCell.Tab.1.center" timestamp="1586501857456">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="235" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586424814134" />
-    <state width="724" height="235" key="GridCell.Tab.1.left" timestamp="1586424814134">
+    <state width="724" height="226" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586501857456" />
+    <state width="724" height="226" key="GridCell.Tab.1.left" timestamp="1586501857456">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="235" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586424814134" />
-    <state width="724" height="235" key="GridCell.Tab.1.right" timestamp="1586424814134">
+    <state width="724" height="226" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586501857456" />
+    <state width="724" height="226" key="GridCell.Tab.1.right" timestamp="1586501857457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="235" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586424814134" />
+    <state width="724" height="226" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586501857457" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586393155363">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586480027874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586393155363" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586480027874" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -319,10 +314,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="810" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586397219777" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586404055368">
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586488195243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586404055368" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586488195243" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -411,6 +406,11 @@
           <url>file://$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java</url>
           <line>36</line>
           <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KthNodeFromEndOfListLCCI.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
