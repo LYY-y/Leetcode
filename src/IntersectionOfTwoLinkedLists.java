@@ -1,4 +1,4 @@
-/**160.相交链表
+/**160.同面试题52.相交链表
  * 编写一个程序，找到两个单链表相交的起始节点。*/
 public class IntersectionOfTwoLinkedLists {
     //依次遍历自己的所在链表，然后去遍历对方的链表，抵消不相交部分的差距41.32 47.39
@@ -27,7 +27,7 @@ public class IntersectionOfTwoLinkedLists {
         return null;
     }
 
-    //改善99.98 36.16
+    //改善99.98 36.16 若不相交则都为null
     public ListNode getIntersectionNode2(ListNode headA, ListNode headB) {
         if(headA == null || headB == null){
             return null;
