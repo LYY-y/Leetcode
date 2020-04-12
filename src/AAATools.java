@@ -1,4 +1,5 @@
 import java.util.LinkedList;
+
 //工具
 public class AAATools {
     public int[] formatArray(String str){
@@ -61,10 +62,36 @@ public class AAATools {
         return listNodes;
     }
 
+    public TreeNode createTree(Integer[] arr){
+        LinkedList<TreeNode> queue = new LinkedList<TreeNode>();
+        TreeNode root = new TreeNode(arr[0]);
+        queue.add(root);
+        int i = 1;
+        while (i < arr.length && !queue.isEmpty()){
+            TreeNode parent = queue.poll();
+            Integer val = arr[i];
+            if (i < arr.length && val != null){
+                TreeNode left = new TreeNode(val);
+                parent.left = left;
+                queue.add(left);
+            }
+            i++;
+            val = arr[i];
+            if (i < arr.length && val != null){
+                TreeNode right = new TreeNode(val);
+                parent.right = right;
+                queue.add(right);
+            }
+            i++;
+        }
+        return root;
+    }
+
     public static void main(String[] args){
         AAATools tool = new AAATools();
         tool.formatArray("[-2,1,-3,4,-1,2,1,-5,4]");
         tool.createLinkedListCycle(new int[]{3,2,0,-4},1);
         tool.createIntersectionOfTwoLinkedLinkedLists(new int[]{4,1,8,4,5}, new int[]{5,0,1,8,4,5},2,3);
+        tool.createTree(new Integer[]{1,2,null,3,4});
     }
 }

@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/DeleteMiddleNodeLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DeleteNodeInALinkedListLCOF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/IntersectionOfTwoLinkedListsLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PalindromeLinkedListLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/kthNodeFromEndOfListLCOF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteMiddleNodeLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteNodeInALinkedListLCOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoLinkedListsLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeLinkedListLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kthNodeFromEndOfListLCOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SameTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/TreeNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/KthNodeFromEndOfListLCCI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/KthNodeFromEndOfListLCCI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KthNodeFromEndOfListLCCI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KthNodeFromEndOfListLCCI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/AAATools.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AAATools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/kthNodeFromEndOfListLCOF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/kthNodeFromEndOfListLCOF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AAATools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AAATools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SameTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +63,14 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.kthNodeFromEndOfListLCOF">
+  <component name="RunManager" selected="Application.SameTree">
+    <configuration name="AAATools" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAATools" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeleteNodeInALinkedListLCOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteNodeInALinkedListLCOF" />
       <module name="leetcode" />
@@ -89,13 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfTwoLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntersectionOfTwoLinkedLists" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KthNodeFromEndOfListLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KthNodeFromEndOfListLCCI" />
       <module name="leetcode" />
@@ -103,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeLinkedListLCCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeLinkedListLCCI" />
+    <configuration name="SameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SameTree" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,18 +118,18 @@
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.KthNodeFromEndOfListLCCI" />
-      <item itemvalue="Application.PalindromeLinkedListLCCI" />
-      <item itemvalue="Application.IntersectionOfTwoLinkedLists" />
       <item itemvalue="Application.DeleteNodeInALinkedListLCOF" />
       <item itemvalue="Application.kthNodeFromEndOfListLCOF" />
+      <item itemvalue="Application.AAATools" />
+      <item itemvalue="Application.SameTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SameTree" />
+        <item itemvalue="Application.AAATools" />
         <item itemvalue="Application.kthNodeFromEndOfListLCOF" />
         <item itemvalue="Application.KthNodeFromEndOfListLCCI" />
         <item itemvalue="Application.DeleteNodeInALinkedListLCOF" />
-        <item itemvalue="Application.IntersectionOfTwoLinkedLists" />
-        <item itemvalue="Application.PalindromeLinkedListLCCI" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +216,8 @@
       <workItem from="1586309745591" duration="23024000" />
       <workItem from="1586393146145" duration="18496000" />
       <workItem from="1586480028635" duration="15491000" />
-      <workItem from="1586566438307" duration="15303000" />
+      <workItem from="1586566438307" duration="15304000" />
+      <workItem from="1586677821596" duration="6266000" />
     </task>
     <servers />
   </component>
@@ -272,46 +264,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586591462222" />
-    <state width="724" height="226" key="GridCell.Tab.0.bottom" timestamp="1586589324602">
+    <state width="724" height="228" key="GridCell.Tab.0.bottom" timestamp="1586682796451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586589324602" />
-    <state width="724" height="226" key="GridCell.Tab.0.center" timestamp="1586589324602">
+    <state width="724" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586682796451" />
+    <state width="724" height="228" key="GridCell.Tab.0.center" timestamp="1586682796450">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586589324602" />
-    <state width="724" height="226" key="GridCell.Tab.0.left" timestamp="1586589324602">
+    <state width="724" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586682796450" />
+    <state width="724" height="228" key="GridCell.Tab.0.left" timestamp="1586682796450">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586589324602" />
-    <state width="724" height="226" key="GridCell.Tab.0.right" timestamp="1586589324602">
+    <state width="724" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586682796450" />
+    <state width="724" height="228" key="GridCell.Tab.0.right" timestamp="1586682796451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586589324602" />
-    <state width="724" height="226" key="GridCell.Tab.1.bottom" timestamp="1586589324753">
+    <state width="724" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586682796451" />
+    <state width="724" height="228" key="GridCell.Tab.1.bottom" timestamp="1586682784857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="226" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586589324753" />
-    <state width="724" height="226" key="GridCell.Tab.1.center" timestamp="1586589324753">
+    <state width="724" height="228" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586682784857" />
+    <state width="724" height="228" key="GridCell.Tab.1.center" timestamp="1586682784856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="226" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586589324753" />
-    <state width="724" height="226" key="GridCell.Tab.1.left" timestamp="1586589324753">
+    <state width="724" height="228" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586682784856" />
+    <state width="724" height="228" key="GridCell.Tab.1.left" timestamp="1586682784856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="226" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586589324753" />
-    <state width="724" height="226" key="GridCell.Tab.1.right" timestamp="1586589324753">
+    <state width="724" height="228" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586682784856" />
+    <state width="724" height="228" key="GridCell.Tab.1.right" timestamp="1586682784857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="226" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586589324753" />
+    <state width="724" height="228" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586682784857" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586566456855">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586677821674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586566456855" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586677821674" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -320,10 +312,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="356" y="31" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586165022326" />
-    <state x="88" y="45" key="refactoring.ChangeSignatureDialog" timestamp="1586573226265">
+    <state x="88" y="45" key="refactoring.ChangeSignatureDialog" timestamp="1586682614823">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="88" y="45" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586573226265" />
+    <state x="88" y="45" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586682614823" />
     <state x="810" y="189" key="run.anything.popup" timestamp="1586397219777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -435,6 +427,16 @@
           <url>file://$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java</url>
           <line>57</line>
           <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AAATools.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SameTree.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/kthNodeFromEndOfListLCOF.java</url>
