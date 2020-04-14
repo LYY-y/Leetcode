@@ -64,6 +64,9 @@ public class AAATools {
 
     public TreeNode createTree(Integer[] arr){
         LinkedList<TreeNode> queue = new LinkedList<TreeNode>();
+        if (arr.length < 1){
+            return null;
+        }
         TreeNode root = new TreeNode(arr[0]);
         queue.add(root);
         int i = 1;
@@ -76,11 +79,13 @@ public class AAATools {
                 queue.add(left);
             }
             i++;
-            val = arr[i];
-            if (i < arr.length && val != null){
-                TreeNode right = new TreeNode(val);
-                parent.right = right;
-                queue.add(right);
+            if (i < arr.length){
+                val = arr[i];
+                if (val != null){
+                    TreeNode right = new TreeNode(val);
+                    parent.right = right;
+                    queue.add(right);
+                }
             }
             i++;
         }
