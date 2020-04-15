@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/SymmetricTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/AAATools.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AAATools.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/SameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SameTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AAATools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AAATools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SameTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +61,9 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SameTree">
+  <component name="RunManager" selected="Application.SymmetricTree">
     <configuration name="AAATools" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AAATools" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeleteNodeInALinkedListLCOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteNodeInALinkedListLCOF" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,6 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SymmetricTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SymmetricTree" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="leetcode" />
       <method v="2">
@@ -116,18 +116,18 @@
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.KthNodeFromEndOfListLCCI" />
-      <item itemvalue="Application.DeleteNodeInALinkedListLCOF" />
       <item itemvalue="Application.kthNodeFromEndOfListLCOF" />
       <item itemvalue="Application.AAATools" />
       <item itemvalue="Application.SameTree" />
+      <item itemvalue="Application.SymmetricTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SymmetricTree" />
         <item itemvalue="Application.SameTree" />
         <item itemvalue="Application.AAATools" />
         <item itemvalue="Application.kthNodeFromEndOfListLCOF" />
         <item itemvalue="Application.KthNodeFromEndOfListLCCI" />
-        <item itemvalue="Application.DeleteNodeInALinkedListLCOF" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +217,8 @@
       <workItem from="1586566438307" duration="15304000" />
       <workItem from="1586677821596" duration="6933000" />
       <workItem from="1586786028565" duration="671000" />
-      <workItem from="1586863628994" duration="3527000" />
+      <workItem from="1586863628994" duration="4082000" />
+      <workItem from="1586938408090" duration="10368000" />
     </task>
     <servers />
   </component>
@@ -264,46 +265,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586591462222" />
-    <state width="1493" height="177" key="GridCell.Tab.0.bottom" timestamp="1586866866232">
+    <state width="724" height="158" key="GridCell.Tab.0.bottom" timestamp="1586946959877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586866866232" />
-    <state width="1493" height="177" key="GridCell.Tab.0.center" timestamp="1586866866232">
+    <state width="724" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586946959877" />
+    <state width="724" height="158" key="GridCell.Tab.0.center" timestamp="1586946959876">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586866866232" />
-    <state width="1493" height="177" key="GridCell.Tab.0.left" timestamp="1586866866231">
+    <state width="724" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586946959876" />
+    <state width="724" height="158" key="GridCell.Tab.0.left" timestamp="1586946959876">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586866866231" />
-    <state width="1493" height="177" key="GridCell.Tab.0.right" timestamp="1586866866232">
+    <state width="724" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586946959876" />
+    <state width="724" height="158" key="GridCell.Tab.0.right" timestamp="1586946959877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586866866232" />
-    <state width="1493" height="299" key="GridCell.Tab.1.bottom" timestamp="1586866565489">
+    <state width="724" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586946959877" />
+    <state width="724" height="158" key="GridCell.Tab.1.bottom" timestamp="1586946960039">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586866565489" />
-    <state width="1493" height="299" key="GridCell.Tab.1.center" timestamp="1586866565489">
+    <state width="724" height="158" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586946960039" />
+    <state width="724" height="158" key="GridCell.Tab.1.center" timestamp="1586946960039">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586866565489" />
-    <state width="1493" height="299" key="GridCell.Tab.1.left" timestamp="1586866565489">
+    <state width="724" height="158" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586946960039" />
+    <state width="724" height="158" key="GridCell.Tab.1.left" timestamp="1586946960039">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586866565489" />
-    <state width="1493" height="299" key="GridCell.Tab.1.right" timestamp="1586866565489">
+    <state width="724" height="158" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586946960039" />
+    <state width="724" height="158" key="GridCell.Tab.1.right" timestamp="1586946960039">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586866565489" />
+    <state width="724" height="158" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586946960039" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586863631612">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586938407826">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586863631612" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586938407826" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -316,10 +317,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="88" y="45" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586682614823" />
-    <state x="810" y="189" key="run.anything.popup" timestamp="1586397219777">
+    <state x="810" y="189" key="run.anything.popup" timestamp="1586948785387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="810" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586397219777" />
+    <state x="810" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586948785387" />
     <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586488195243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -437,6 +438,11 @@
           <url>file://$PROJECT_DIR$/src/SameTree.java</url>
           <line>52</line>
           <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SymmetricTree.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/kthNodeFromEndOfListLCOF.java</url>
