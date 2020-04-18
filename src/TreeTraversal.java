@@ -36,24 +36,49 @@ public class TreeTraversal {
     }
 
     //二叉树的层次遍历
-    List<List<Integer>> list4 = new LinkedList<>();
     public List<List<Integer>> levelOrder(TreeNode root) {
-        LinkedList<Integer> que = new LinkedList<Integer>();
+        List<List<Integer>> list4 = new LinkedList<>();
         if (root == null){
             return list4;
         }
-        Integer p = root.val;
-        while (p != null){
-            while (que != null) {
-                if (root.left != null) {
-                    que.add(root.left.val);
+        LinkedList<TreeNode> que = new LinkedList<TreeNode>();
+        int count = 0;
+        int circle = 1;
+        int nullNum = 0;
+        TreeNode p = root;
+        while (p != null || !que.isEmpty()){
+            LinkedList<Integer> temp = new LinkedList<Integer>();
+            while (count < circle) {
+                count++;
+                if (p == null) {
+                    p = que.poll();
+                    continue;
                 }
-                if (root.right != null) {
-                    que.add(root.right.val);
+                temp.add(p.val);
+                if (p.left == null){
+                    nullNum++;
+                }else {
+                    que.add(p.left);
                 }
-                que.poll();
+                if (p.right == null){
+                    nullNum++;
+                }else {
+                    que.add(p.right);
+                }
+                p = que.poll();
             }
+            circle = circle*2-nullNum;
+            count = 0;
+            list4.add(temp);
         }
         return list4;
+    }
+
+    public static void main(String[] args){
+        TreeTraversal treeTraversal = new TreeTraversal();
+        TreeNode treeNode = new AAATools().createTree(new Integer[]{3,9,20,null,null,15,7});
+//        System.out.println(treeTraversal.levelOrder(treeNode));
+        TreeNode treeNode2 = new AAATools().createTree(new Integer[]{1,2,null,3,null,4,null,5});
+        System.out.println(treeTraversal.levelOrder(treeNode2));
     }
 }
