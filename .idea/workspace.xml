@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/BalancedBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ConvertSortedArrayToBinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertSortedArrayToBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/BinaryTreePaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/InvertBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/LowestCommonAncestorOfABinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimumDepthOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PathSum3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SumOfLeftLeaves.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowestCommonAncestorOfABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PathSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfLeftLeaves.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/PathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PathSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,23 +69,9 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BalancedBinaryTree">
-    <configuration name="BalancedBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BalancedBinaryTree" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinaryTreeOrderTraversal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryTreeOrderTraversal2" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertSortedArrayToBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertSortedArrayToBinarySearchTree" />
+  <component name="RunManager" selected="Application.PathSum3">
+    <configuration name="BinaryTreePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTreePaths" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,15 +86,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumDepthOfBinaryTree" />
+    <configuration name="LowestCommonAncestorOfABinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LowestCommonAncestorOfABinarySearchTree" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PathSum" />
+    <configuration name="MinimumDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumDepthOfBinaryTree" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PathSum3" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfLeftLeaves" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,19 +123,19 @@
     <list>
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.MaximumDepthOfBinaryTree" />
-      <item itemvalue="Application.BinaryTreeOrderTraversal2" />
-      <item itemvalue="Application.PathSum" />
-      <item itemvalue="Application.ConvertSortedArrayToBinarySearchTree" />
-      <item itemvalue="Application.BalancedBinaryTree" />
+      <item itemvalue="Application.MinimumDepthOfBinaryTree" />
+      <item itemvalue="Application.LowestCommonAncestorOfABinarySearchTree" />
+      <item itemvalue="Application.BinaryTreePaths" />
+      <item itemvalue="Application.SumOfLeftLeaves" />
+      <item itemvalue="Application.PathSum3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BalancedBinaryTree" />
-        <item itemvalue="Application.ConvertSortedArrayToBinarySearchTree" />
-        <item itemvalue="Application.PathSum" />
-        <item itemvalue="Application.BinaryTreeOrderTraversal2" />
-        <item itemvalue="Application.MaximumDepthOfBinaryTree" />
+        <item itemvalue="Application.PathSum3" />
+        <item itemvalue="Application.SumOfLeftLeaves" />
+        <item itemvalue="Application.BinaryTreePaths" />
+        <item itemvalue="Application.LowestCommonAncestorOfABinarySearchTree" />
+        <item itemvalue="Application.MinimumDepthOfBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +233,10 @@
       <workItem from="1587343055618" duration="20018000" />
       <workItem from="1587430001262" duration="1476000" />
       <workItem from="1587900974983" duration="7627000" />
-      <workItem from="1587948043916" duration="13200000" />
+      <workItem from="1587948043916" duration="14005000" />
+      <workItem from="1589369923973" duration="2771000" />
+      <workItem from="1589600154496" duration="17695000" />
+      <workItem from="1589674078557" duration="8593000" />
     </task>
     <servers />
   </component>
@@ -246,6 +255,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="722" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584447809063" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589601643913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589601643913" />
     <state x="346" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585558545223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -274,46 +287,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587000525631" />
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1587994218941">
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom" timestamp="1589705744443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587994218941" />
-    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1587994218940">
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
+    <state width="1493" height="284" key="GridCell.Tab.0.center" timestamp="1589705744443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587994218940" />
-    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1587994218940">
+    <state width="1493" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
+    <state width="1493" height="284" key="GridCell.Tab.0.left" timestamp="1589705744443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587994218940" />
-    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1587994218940">
+    <state width="1493" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
+    <state width="1493" height="284" key="GridCell.Tab.0.right" timestamp="1589705744443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587994218940" />
-    <state width="724" height="211" key="GridCell.Tab.1.bottom" timestamp="1587991018935">
+    <state width="1493" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
+    <state width="1493" height="284" key="GridCell.Tab.1.bottom" timestamp="1589705744444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="211" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587991018935" />
-    <state width="724" height="211" key="GridCell.Tab.1.center" timestamp="1587991018935">
+    <state width="1493" height="284" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589705744444" />
+    <state width="1493" height="284" key="GridCell.Tab.1.center" timestamp="1589705744443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="211" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587991018935" />
-    <state width="724" height="211" key="GridCell.Tab.1.left" timestamp="1587991018935">
+    <state width="1493" height="284" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
+    <state width="1493" height="284" key="GridCell.Tab.1.left" timestamp="1589705744443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="211" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587991018935" />
-    <state width="724" height="211" key="GridCell.Tab.1.right" timestamp="1587991018935">
+    <state width="1493" height="284" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
+    <state width="1493" height="284" key="GridCell.Tab.1.right" timestamp="1589705744444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="211" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587991018935" />
+    <state width="1493" height="284" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589705744444" />
     <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1587948044714">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1589674079689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587948044714" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589674079689" />
     <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -326,10 +339,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="88" y="45" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586682614823" />
-    <state x="810" y="189" key="run.anything.popup" timestamp="1587368449653">
+    <state x="810" y="189" key="run.anything.popup" timestamp="1589617876381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="810" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587368449653" />
+    <state x="810" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589617876381" />
     <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587381373622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -454,19 +467,14 @@
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PathSum.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PathSum.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ConvertSortedArrayToBinarySearchTree.java</url>
           <line>44</line>
           <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PathSum3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/kthNodeFromEndOfListLCOF.java</url>
