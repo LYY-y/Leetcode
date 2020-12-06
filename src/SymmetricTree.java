@@ -1,7 +1,7 @@
-import java.util.LinkedList;
-
-/**101.对称二叉树
+/**101.对称二叉树 同剑指 Offer 28. 对称的二叉树
  * 给定一个二叉树，检查它是否是镜像对称的。*/
+
+import java.util.LinkedList;
 public class SymmetricTree {
     //100 12.5
     boolean flag = true;

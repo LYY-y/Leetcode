@@ -2,19 +2,373 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/BinaryTreePaths.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/InvertBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LowestCommonAncestorOfABinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinimumDepthOfBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PathSum3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SumOfLeftLeaves.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LowestCommonAncestorOfABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathSum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfLeftLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStockIII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithCooldown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClimbingStairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountSortedVowelStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CouplesHoldingHands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CutTheRope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CutTheRope2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeleteColumnsToMakeSorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DivisorGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HouseRobber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HouseRobberII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HouseRobberIII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IsSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LastStoneWeight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatrixBlockSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumSumOfContinuousSubarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumInitialEnergyToFinishTasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumPathSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartitionLabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RangeSumQueryImmutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReducingDishes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScoreAfterFlippingMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SplitAStringInBalancedStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StoneGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheGreatestValueOfGifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheMasseuse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreeStepsProblemLCCI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaterBottles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ANumberThatOccursMoreThanHalfTheTimeInAnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AddBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AddDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AddWithoutPlusLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ArrangingCoins.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AverageOfLevelsInBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AverageSalaryExcludingTheMinimumAndMaximumSalary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/BackspaceStringCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/BaseballGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/BinaryGap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/BinaryNumberWithAlternatingBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/BinaryTreeTilt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/BinaryWatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Bucket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/BuildAnArrayWithStackOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CanMakeArithmeticProgressionFromSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CheckBalanceLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ComplementOfBase10Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ConstructStringFromBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ConstructTheRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ConvertANumberToHexadecimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ConvertIntegerLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ConvertIntegerToTheSumOfTwoNoZeroIntegers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CountGoodTriplets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CountOddNumbersInAnIntervalRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CountPrimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CousinsInBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CrawlerLogFolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/CustomFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DIStringMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DayOfTheYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DepthOfBinaryTree$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DepthOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DesignHashMap$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DesignHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DesignHashSet$MyHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DesignHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DesignParkingSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DetectPatternOfLengthMRepeatedKOrMoreTimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DistributeCandies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/DivisorGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/EmployeeImportance$Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/EmployeeImportance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ExcelSheetColumnNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ExcelSheetColumnTitle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ExchangeLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FactorialTrailingZeroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FactorialZerosLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FinalPricesWithASpecialDiscountInAShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FindModeInBinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FindPositiveIntegerSolutionForAGivenEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FindTheDifference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/FirstUniqueCharacterInAString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/GuessNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/HammingDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/HappyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ImplementQueueUsingStacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ImplementQueueUsingStacksLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ImplementStackUsingQueues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ImplementTheQueueWithTwoStacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/IncreasingOrderSearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/InsertIntoBitsLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/IntersectionOfTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/IslandPerimeter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/IsomorphicStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/JewelsAndStones.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/KeyboardRow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/KidsWithTheGreatestNumberOfCandies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/KthMissingPositiveNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/LargestPerimeterTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Leaf_SimilarTrees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/LongestHarmoniousSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/LongestPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/LongestWordInDictionary$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/LongestWordInDictionary$TrieNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/LongestWordInDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MakeTheStringGreat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MakeTwoArraysEqualByReversingSubArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MatrixCellsInDistanceOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MatrixDiagonalSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Maximum69Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MaximumDepthOfN_aryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MaximumLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MaximumNumberOfBalloons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MaximumProductOfTwoElementsInAnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MergeTwoBinaryTrees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinStackLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimumAbsoluteDifferenceInBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimumDistanceBetweenBSTNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimumHeightTreeLCCI$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimumHeightTreeLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimumIndexSumOfTwoLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimumMovesToEqualArrayElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MinimumValueToGetPositiveStepByStepSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MirrorOfBinaryTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MirrorOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MostVisitedSectorInACircularTrack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/MyHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NRepeatedElementInSize2NArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/N_aryTreePostorderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/N_aryTreePreorderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NearestCommonAncestorOfBinaryTreeNearestCommonAncestorOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NextGreaterElementI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NumberComplement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NumberOf1Bits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NumberOf1BitsLCOF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NumberOfBoomerangs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NumberOfGoodPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NumberOfStepsToReduceANumberToZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/NumberOfStudentsDoingHomeworkAtAGivenTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/OccurrencesAfterBigram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PalindromePermutationLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PerfectNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PowerOfFour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PowerOfThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PowerOfTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PowerfulIntegers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PrimeArrangements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PrimeNumberOfSetBitsInBinaryRepresentation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PrintBinaryTreeFromTopToBottomII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PrintFrom1ToTheLargestNDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/PrintTheLinkedListFromEndToBeginning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ProjectionAreaOf3DShapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/RangeAdditionII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/RangeSumOfBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/RemoveAllAdjacentDuplicatesInString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ReverseBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ReverseBitsLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ReverseVowelsOfAString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/RunningSumOf1dArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SearchInABinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SelfDividingNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SetMismatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ShortestCompletingWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ShuffleTheArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SingleNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SmallestRangeI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SortIntegersByTheNumberOf1Bits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SpecialPositionsInABinaryMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/StackContainingMinFunctionLCOF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SubdomainVisitCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SubtractTheProductAndSumOfDigitsOfAnInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SubtreeOfAnotherTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SumOfAllOddLengthSubarrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SumOfRootToLeafBinaryNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/SumOfTwoIntegers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/TheFirstCharacterThatAppearsOnlyOnce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/TheNearestCommonAncestorsOrOfBinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Thek_thLargestNodeOfTheBinarySearchTreeLCOF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ThreeConsecutiveOdds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/TrimABinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/TwoSumIVInputIsABST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/UglyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/UncommonWordsFromTwoSentences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/UniqueNumberOfOccurrences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/UnivaluedBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ValidAnagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ValidBoomerang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ValidPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/ValidPerfectSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/VerifyingAnAlienDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/WordPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/XOROperationInAnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/iNodeLCCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ANumberThatOccursMoreThanHalfTheTimeInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddWithoutPlusLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrangingCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AverageOfLevelsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackspaceStringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryNumberWithAlternatingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeTilt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuildAnArrayWithStackOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CanMakeArithmeticProgressionFromSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckBalanceLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComplementOfBase10Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConstructStringFromBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConstructTheRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertANumberToHexadecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertIntegerLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertIntegerToTheSumOfTwoNoZeroIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountGoodTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountOddNumbersInAnIntervalRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountingBits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CousinsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrawlerLogFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIStringMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayOfTheYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignParkingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DetectPatternOfLengthMRepeatedKOrMoreTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DistributeCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivisorGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeImportance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExchangeLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialTrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialZerosLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalPricesWithASpecialDiscountInAShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindModeInBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindPositiveIntegerSolutionForAGivenEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindTheDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstUniqueCharacterInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImplementQueueUsingStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImplementQueueUsingStacksLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImplementStackUsingQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImplementTheQueueWithTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncreasingOrderSearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertIntoBitsLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoArrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IslandPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsomorphicStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeyboardRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KidsWithTheGreatestNumberOfCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthMissingPositiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestPerimeterTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestTriangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leaf_SimilarTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestHarmoniousSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestWordInDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MakeTheStringGreat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MakeTwoArraysEqualByReversingSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixDiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maximum69Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumDepthOfN_aryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumNumberOfBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumProductOfTwoElementsInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinStackLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumAbsoluteDifferenceInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumDistanceBetweenBSTNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumHeightTreeLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumIndexSumOfTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumMovesToEqualArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumValueToGetPositiveStepByStepSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MirrorOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MostVisitedSectorInACircularTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NRepeatedElementInSize2NArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_aryTreePostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_aryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NearestCommonAncestorOfBinaryTreeNearestCommonAncestorOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NextGreaterElementI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOf1BitsLCOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfBoomerangs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfGoodPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfStepsToReduceANumberToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfStudentsDoingHomeworkAtAGivenTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OccurrencesAfterBigram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromePermutationLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerfulIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeArrangements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumberOfSetBitsInBinaryRepresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintBinaryTreeFromTopToBottomII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintFrom1ToTheLargestNDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintTheLinkedListFromEndToBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectionAreaOf3DShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RangeAdditionII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RangeSumOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveOutermostParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseBitsLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseVowelsOfAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RunningSumOf1dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchInABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfDividingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetMismatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShortestCompletingWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShuffleTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmallestRangeI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortIntegersByTheNumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialPositionsInABinaryMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackContainingMinFunctionLCOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubdomainVisitCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubtractTheProductAndSumOfDigitsOfAnInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfAllOddLengthSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfRootToLeafBinaryNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheFirstCharacterThatAppearsOnlyOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheNearestCommonAncestorsOrOfBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thek_thLargestNodeOfTheBinarySearchTreeLCOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreeConsecutiveOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrimABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSumIVInputIsABST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UncommonWordsFromTwoSentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniqueNumberOfOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnivaluedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidBoomerang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidPerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerifyingAnAlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XOROperationInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iNodeLCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BalancedBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BalancedBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +385,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="Python Script" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -54,14 +409,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/Personal/Desktop/DataStructure/MineTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -69,46 +424,11 @@
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathSum3">
-    <configuration name="BinaryTreePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryTreePaths" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Python.CouplesHoldingHands">
     <configuration name="HeightChecker" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="HeightChecker" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LowestCommonAncestorOfABinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LowestCommonAncestorOfABinarySearchTree" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumDepthOfBinaryTree" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PathSum3" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfLeftLeaves" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,22 +440,153 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CouplesHoldingHands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CouplesHoldingHands.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LastStoneWeight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LastStoneWeight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MinimumInitialEnergyToFinishTasks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MinimumInitialEnergyToFinishTasks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PartitionLabels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PartitionLabels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScoreAfterFlippingMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScoreAfterFlippingMatrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Application.HeightChecker" />
-      <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.MinimumDepthOfBinaryTree" />
-      <item itemvalue="Application.LowestCommonAncestorOfABinarySearchTree" />
-      <item itemvalue="Application.BinaryTreePaths" />
-      <item itemvalue="Application.SumOfLeftLeaves" />
-      <item itemvalue="Application.PathSum3" />
+      <item itemvalue="Python.leetcode" />
+      <item itemvalue="Python.MinimumInitialEnergyToFinishTasks" />
+      <item itemvalue="Python.PartitionLabels" />
+      <item itemvalue="Python.ScoreAfterFlippingMatrix" />
+      <item itemvalue="Python.LastStoneWeight" />
+      <item itemvalue="Python.CouplesHoldingHands" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PathSum3" />
-        <item itemvalue="Application.SumOfLeftLeaves" />
-        <item itemvalue="Application.BinaryTreePaths" />
-        <item itemvalue="Application.LowestCommonAncestorOfABinarySearchTree" />
-        <item itemvalue="Application.MinimumDepthOfBinaryTree" />
+        <item itemvalue="Python.CouplesHoldingHands" />
+        <item itemvalue="Python.LastStoneWeight" />
+        <item itemvalue="Python.ScoreAfterFlippingMatrix" />
+        <item itemvalue="Python.PartitionLabels" />
+        <item itemvalue="Python.MinimumInitialEnergyToFinishTasks" />
       </list>
     </recent_temporary>
   </component>
@@ -237,6 +688,53 @@
       <workItem from="1589369923973" duration="2771000" />
       <workItem from="1589600154496" duration="17695000" />
       <workItem from="1589674078557" duration="8593000" />
+      <workItem from="1589790793698" duration="1219000" />
+      <workItem from="1590447380583" duration="38000" />
+      <workItem from="1600765115501" duration="18031000" />
+      <workItem from="1600928448230" duration="15242000" />
+      <workItem from="1600993190492" duration="11402000" />
+      <workItem from="1601115499352" duration="7199000" />
+      <workItem from="1601188436658" duration="11059000" />
+      <workItem from="1601259044092" duration="9117000" />
+      <workItem from="1601338791179" duration="9074000" />
+      <workItem from="1601428488680" duration="3344000" />
+      <workItem from="1601463611146" duration="6867000" />
+      <workItem from="1601515060257" duration="11572000" />
+      <workItem from="1601606515255" duration="23575000" />
+      <workItem from="1601780735382" duration="7453000" />
+      <workItem from="1601863547694" duration="11999000" />
+      <workItem from="1601954800228" duration="4210000" />
+      <workItem from="1601990529479" duration="2587000" />
+      <workItem from="1602049004312" duration="7875000" />
+      <workItem from="1602122218362" duration="4379000" />
+      <workItem from="1602230821308" duration="6996000" />
+      <workItem from="1602310870775" duration="6531000" />
+      <workItem from="1602378365462" duration="12844000" />
+      <workItem from="1602471854516" duration="4202000" />
+      <workItem from="1602728120482" duration="2253000" />
+      <workItem from="1602899786471" duration="13635000" />
+      <workItem from="1602985323891" duration="16086000" />
+      <workItem from="1603240857980" duration="1400000" />
+      <workItem from="1603329606433" duration="12929000" />
+      <workItem from="1603441714961" duration="2247000" />
+      <workItem from="1603503006921" duration="12786000" />
+      <workItem from="1603633639139" duration="1491000" />
+      <workItem from="1603956668661" duration="1313000" />
+      <workItem from="1603975059167" duration="6731000" />
+      <workItem from="1604025933140" duration="2947000" />
+      <workItem from="1604212014127" duration="3286000" />
+      <workItem from="1604218275546" duration="2609000" />
+      <workItem from="1604481725873" duration="9007000" />
+      <workItem from="1604932318413" duration="4000" />
+      <workItem from="1605412874110" duration="195000" />
+      <workItem from="1605601901562" duration="1299000" />
+      <workItem from="1606564113336" duration="852000" />
+      <workItem from="1606565041987" duration="11704000" />
+      <workItem from="1606702265399" duration="7607000" />
+      <workItem from="1606734157419" duration="59000" />
+      <workItem from="1606788404642" duration="11297000" />
+      <workItem from="1606892580482" duration="25824000" />
+      <workItem from="1607050447083" duration="21669000" />
     </task>
     <servers />
   </component>
@@ -247,251 +745,288 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="484" y="48" key="#BinaryPrefixDivisibleBy5" timestamp="1585558552225">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606644223760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="484" y="48" key="#BinaryPrefixDivisibleBy5/0.0.1536.824@0.0.1536.824" timestamp="1585558552225" />
-    <state x="722" y="74" key="#Project_Structure" timestamp="1584447809063">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606644223760" />
+    <state x="553" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601961084716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584447809063" />
-    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589601643913">
+    <state x="553" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1601961084716" />
+    <state width="413" height="466" key="DebuggerActiveHint" timestamp="1606921732508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589601643913" />
-    <state x="346" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585558545223">
+    <state width="413" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1606921732508" />
+    <state x="591" y="208" key="FileChooserDialogImpl" timestamp="1606734212318">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="346" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585558545223" />
-    <state x="487" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585820119051">
+    <state x="2659" y="263" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605605314560" />
+    <state x="591" y="208" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606734212318" />
+    <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.bottom" timestamp="1606803345878">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606803345878" />
+    <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.center" timestamp="1606803345878">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606803345878" />
+    <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.left" timestamp="1606803345878">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606803345878" />
+    <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.right" timestamp="1606803345878">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606803345878" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1607155597630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="487" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585820119051" />
-    <state x="722" y="94" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586349821476">
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047498" />
+    <state width="1877" height="453" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607155597630" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1607155597629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="94" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586349821476" />
-    <state x="1003" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584435793316">
+    <state width="1493" height="162" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047498" />
+    <state width="1877" height="453" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607155597629" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1607155597629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1003" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584435793316" />
-    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1586495609601">
+    <state width="1493" height="162" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047498" />
+    <state width="1877" height="453" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607155597629" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1607155597629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="433" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1586495609601" />
-    <state x="626" y="156" key="EnvironmentVariablesDialog" timestamp="1584449062624">
+    <state width="1493" height="162" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047498" />
+    <state width="1877" height="453" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607155597629" />
+    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.bottom" timestamp="1607155597600">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="626" y="156" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584449062624" />
-    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1587000525631">
+    <state width="1493" height="343" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047490" />
+    <state x="1920" y="232" width="1877" height="453" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607155597600" />
+    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.center" timestamp="1607155597599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587000525631" />
-    <state width="1493" height="284" key="GridCell.Tab.0.bottom" timestamp="1589705744443">
+    <state width="1493" height="343" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047490" />
+    <state x="1920" y="232" width="1877" height="453" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
+    <state width="1493" height="231" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607155597599" />
+    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.left" timestamp="1607155597598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
-    <state width="1493" height="284" key="GridCell.Tab.0.center" timestamp="1589705744443">
+    <state width="1493" height="343" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047490" />
+    <state x="1920" y="232" width="1877" height="453" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
+    <state width="1493" height="231" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607155597598" />
+    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.right" timestamp="1607155597600">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
-    <state width="1493" height="284" key="GridCell.Tab.0.left" timestamp="1589705744443">
+    <state width="1493" height="343" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047490" />
+    <state x="1920" y="232" width="1877" height="453" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
+    <state width="1493" height="231" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607155597600" />
+    <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.bottom" timestamp="1606790992989">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606790992989" />
+    <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.center" timestamp="1606790992987">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606790992987" />
+    <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.left" timestamp="1606790992987">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606790992987" />
+    <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.right" timestamp="1606790992987">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606790992987" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1606564967371">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
-    <state width="1493" height="284" key="GridCell.Tab.0.right" timestamp="1589705744443">
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606564967371" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1607050454509">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
-    <state width="1493" height="284" key="GridCell.Tab.1.bottom" timestamp="1589705744444">
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606702384312" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1607050454509" />
+    <state x="1920" y="232" width="1864" height="492" key="dock-window-1" timestamp="1606791013586">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="232" width="1864" height="492" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606791013586" />
+    <state x="2180" y="524" width="1864" height="492" key="dock-window-2" timestamp="1606803369116">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2180" y="524" width="1864" height="492" key="dock-window-2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606803369116" />
+    <state x="2254" y="104" key="new project wizard" timestamp="1605605360953">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2254" y="104" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605605360953" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1604492002644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589705744444" />
-    <state width="1493" height="284" key="GridCell.Tab.1.center" timestamp="1589705744443">
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604492002644" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607068272457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
-    <state width="1493" height="284" key="GridCell.Tab.1.left" timestamp="1589705744443">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="284" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589705744443" />
-    <state width="1493" height="284" key="GridCell.Tab.1.right" timestamp="1589705744444">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="284" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589705744444" />
-    <state x="253" y="0" key="SettingsEditor" timestamp="1584503881674">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584503881674" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1589674079689">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589674079689" />
-    <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583560016506">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="301" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583560016506" />
-    <state x="356" y="31" key="new project wizard" timestamp="1586165022326">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="356" y="31" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586165022326" />
-    <state x="88" y="45" key="refactoring.ChangeSignatureDialog" timestamp="1586682614823">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="88" y="45" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586682614823" />
-    <state x="810" y="189" key="run.anything.popup" timestamp="1589617876381">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="810" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589617876381" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587381373622">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587381373622" />
+    <state x="2459" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805417834" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607068272457" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortAnArray.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DivisorGame.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GameOfLife.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="4" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CountSortedVowelStrings.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MasterMindLCCI.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="5" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ReducingDishes.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ContiguousSequenceLCCI.java</url>
-          <line>36</line>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MinimumPathSum.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MinimumPathSum.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TheGreatestValueOfGifts.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
+          <line>13</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ContiguousSequenceLCCI.java</url>
-          <line>8</line>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py</url>
+          <line>28</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FindMajorityElementLCCI.java</url>
-          <line>12</line>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py</url>
+          <line>21</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FindMajorityElementLCCI.java</url>
-          <line>29</line>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithCooldown.py</url>
+          <line>16</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FindMajorityElementLCCI.java</url>
-          <line>89</line>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CutTheRope.py</url>
+          <line>8</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RepeatingNumbersInTheArray.java</url>
-          <line>40</line>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Triangle.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Triangle.py</url>
+          <line>66</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RepeatingNumbersInTheArray.java</url>
-          <line>27</line>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SplitAStringInBalancedStrings.py</url>
+          <line>15</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CountLargestGroup.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="40" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WaterBottles.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PrintMatrixClockwise.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="41" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PrintMatrixClockwise.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="46" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MinimumInitialEnergyToFinishTasks.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PrintMatrixClockwise.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FindInATwo_imensionalArray.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/KthNodeFromEndOfListLCCI.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PalindromeLinkedListLCCI.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PalindromeLinkedListLCCI.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PalindromeLinkedListLCCI.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/AAATools.java</url>
-          <line>99</line>
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SameTree.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MaximumDepthOfBinaryTree.java</url>
-          <line>87</line>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ConvertSortedArrayToBinarySearchTree.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PathSum3.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="149" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/kthNodeFromEndOfListLCOF.java</url>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PartitionLabels.py</url>
           <line>11</line>
-          <properties class="kthNodeFromEndOfListLCOF" method="getKthFromEnd">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="106" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ScoreAfterFlippingMatrix.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LastStoneWeight.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CouplesHoldingHands.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+      </configuration>
       <configuration name="Application">
         <watch expression="head.next.next.next" />
-        <watch expression="this" language="JAVA" />
-        <watch expression="root" language="JAVA" />
+        <watch expression="this" />
+        <watch expression="root" />
+        <watch expression="head.next.next.next" />
+        <watch expression="subRoot.right" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$CountSortedVowelStrings.coverage" NAME="CountSortedVowelStrings Coverage Results" MODIFIED="1606791001474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$WaterBottles.coverage" NAME="WaterBottles Coverage Results" MODIFIED="1607071063103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$DivisorGame.coverage" NAME="DivisorGame Coverage Results" MODIFIED="1606567492787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$BestTimeToBuyAndSellStockIV.coverage" NAME="BestTimeToBuyAndSellStockIV Coverage Results" MODIFIED="1606970114264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$SplitAStringInBalancedStrings.coverage" NAME="SplitAStringInBalancedStrings Coverage Results" MODIFIED="1607068425393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$PartitionLabels.coverage" NAME="PartitionLabels Coverage Results" MODIFIED="1607144592527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$LastStoneWeight.coverage" NAME="LastStoneWeight Coverage Results" MODIFIED="1607147916450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$IsSubsequence.coverage" NAME="IsSubsequence Coverage Results" MODIFIED="1606725027269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$TheMasseuse.coverage" NAME="TheMasseuse Coverage Results" MODIFIED="1606650454854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$ReducingDishes.coverage" NAME="ReducingDishes Coverage Results" MODIFIED="1606805301021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$BestTimeToBuyAndSellStockWithCooldown.coverage" NAME="BestTimeToBuyAndSellStockWithCooldown Coverage Results" MODIFIED="1606978417380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$Triangle.coverage" NAME="Triangle Coverage Results" MODIFIED="1607057797371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$CouplesHoldingHands.coverage" NAME="CouplesHoldingHands Coverage Results" MODIFIED="1607151113475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$best_time_to_buy_and_sell_stock_with_transaction_fee.coverage" NAME="best-time-to-buy-and-sell-stock-with-transaction-fee Coverage Results" MODIFIED="1606917541201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$ScoreAfterFlippingMatrix.coverage" NAME="ScoreAfterFlippingMatrix Coverage Results" MODIFIED="1607146389310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$MinimumInitialEnergyToFinishTasks.coverage" NAME="MinimumInitialEnergyToFinishTasks Coverage Results" MODIFIED="1607085824204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$GroupThePeopleGivenTheGroupSizeTheyBelongTo.coverage" NAME="GroupThePeopleGivenTheGroupSizeTheyBelongTo Coverage Results" MODIFIED="1607073704845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$TheGreatestValueOfGifts.coverage" NAME="TheGreatestValueOfGifts Coverage Results" MODIFIED="1606912596608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$MinimumPathSum.coverage" NAME="MinimumPathSum Coverage Results" MODIFIED="1606912293749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$BestTimeToBuyAndSellStockIII.coverage" NAME="BestTimeToBuyAndSellStockIII Coverage Results" MODIFIED="1606919652467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$CutTheRope.coverage" NAME="CutTheRope Coverage Results" MODIFIED="1606984143365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
