@@ -2,121 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1-bitAnd2-bitCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/1-bitAnd2-bitCharacters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddToArray-FormOfInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/AddToArray-FormOfInteger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayPartition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ArrayPartition1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvailableCapturesForRook.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/AvailableCapturesForRook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStock.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStock2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStock2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStockIII.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithCooldown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithCooldown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithTransactionFee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryPrefixDivisibleBy5.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BinaryPrefixDivisibleBy5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BinarySearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CanPlaceFlowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CanPlaceFlowers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbingStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ClimbingStairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoinChange.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CoinChange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompressStringLCCI.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CompressStringLCCI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContainsDuplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ContainsDuplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContainsDuplicate2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ContainsDuplicate2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CountSortedVowelStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CountSortedVowelStrings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CouplesHoldingHands.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CouplesHoldingHands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CutTheRope.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CutTheRope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CutTheRope2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CutTheRope2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DegreeOfAnArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DegreeOfAnArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeleteColumnsToMakeSorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DeleteColumnsToMakeSorted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiameterOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DiameterOfBinaryTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DistributeCandiesToPeople.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DistributeCandiesToPeople.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DivisorGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DivisorGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FairCandySwap.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FairCandySwap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FibonacciNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FibonacciNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindAllNumbersDisappearedInArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindAllNumbersDisappearedInArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindCommonCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindCommonCharacters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindFirstAndLastPositionOfElementInSortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindPivotIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindPivotIndex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindWordsThatCanBeFormedByCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindWordsThatCanBeFormedByCharacters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlippingAnImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FlippingAnImage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/GreatestCommonDivisorOfStrings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HouseRobber.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/HouseRobber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HouseRobberII.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/HouseRobberII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HouseRobberIII.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/HouseRobberIII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageSmoother.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ImageSmoother.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImplementStrStr().py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ImplementStrStr().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/IsSubsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K-diffPairsInAnArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/K-diffPairsInAnArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LargestNumberAtLeastTwiceOfOthers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LargestNumberAtLeastTwiceOfOthers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LastStoneWeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LastStoneWeight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LongestCommonPrefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestContinuousIncreasingSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LongestContinuousIncreasingSubsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestSubstringNoRepeatCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LongestSubstringNoRepeatCharacters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MagicSquaresInGrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MagicSquaresInGrid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MajorityElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MajorityElement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatrixBlockSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MatrixBlockSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxAreaOfIsland.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaxAreaOfIsland.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxConsecutiveOnes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaxConsecutiveOnes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaximizeDistanceToClosestPerson.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximizeDistanceToClosestPerson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaximumAverageSubarray1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumAverageSubarray1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaximumProductOfThreeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumProductOfThreeNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaximumSubarry.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumSubarry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaximumSumOfContinuousSubarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumSumOfContinuousSubarrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaximumValueOfQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumValueOfQueue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MedianOfTwoSortedArrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MedianOfTwoSortedArrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MergeSortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLinkedLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MergeTwoSortedLinkedLists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinCostClimbingStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MinCostClimbingStairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinimumInitialEnergyToFinishTasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MinimumInitialEnergyToFinishTasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinimumPathSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MinimumPathSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MissingNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MissingNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonotonicArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MonotonicArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoveZeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MoveZeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Non-decreasingArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Non-decreasingArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PairsOfSongsWithTotalDurationsDivisibleBy60.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PairsOfSongsWithTotalDurationsDivisibleBy60.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PalindromeNum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PartionArrayIntoThreePartsWithEqualSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PartionArrayIntoThreePartsWithEqualSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PartitionLabels.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PartitionLabels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pascal'sTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Pascal'sTriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pascal'sTriangle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Pascal'sTriangle2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlusOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PlusOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PositionOfLargeGroups.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PositionOfLargeGroups.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RangeSumQueryImmutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RangeSumQueryImmutable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReducingDishes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ReducingDishes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveDuplicatesFromSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RemoveDuplicatesFromSortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveDuplicatesFromSortedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RemoveDuplicatesFromSortedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RemoveElement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReshapeTheMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ReshapeTheMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ReverseInteger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RomanToInteger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RotateArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RotateArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScoreAfterFlippingMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ScoreAfterFlippingMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchInRotatedSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SearchInRotatedSortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchInsertPosition.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SearchInsertPosition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShortedUnsortedContinuousSubarry.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ShortedUnsortedContinuousSubarry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortArrayByParity.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SortArrayByParity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortArrayByParity2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SortArrayByParity2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SplitAStringInBalancedStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SplitAStringInBalancedStrings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sqrt(x).py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Sqrt(x).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SquaresOfASortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SquaresOfASortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StoneGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/StoneGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumIsS_Sequence Of Continuous Positive.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SumIsS_Sequence Of Continuous Positive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumOfEvenNumberAfterQueries.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SumOfEvenNumberAfterQueries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheGreatestValueOfGifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TheGreatestValueOfGifts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheMasseuse.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TheMasseuse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThirdMaximumNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ThirdMaximumNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreeStepsProblemLCCI.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ThreeStepsProblemLCCI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToeplitzMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ToeplitzMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TransposeMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TransposeMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TwoSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSum2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TwoSum2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ValidMountainArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ValidMountainArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ValidParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ValidParentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterBottles.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/WaterBottles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XOfAKindInADeckOfCards.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/XOfAKindInADeckOfCards.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src2/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.md" beforeDir="false" afterPath="$PROJECT_DIR$/src2/leetcode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pySrc/sort/insertion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pySrc/sort/selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pySrc/sort/shell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pySrc/sort/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,11 +58,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JAVA\leetcode\src2" />
       <recent name="F:\JAVA\leetcode\src" />
       <recent name="F:\JAVA\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CouplesHoldingHands">
+  <component name="RunManager" selected="Python.shell">
     <configuration name="HeightChecker" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -232,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MinimumInitialEnergyToFinishTasks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="insertion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,56 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pySrc/sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\JAVA\leetcode\src2\MinimumInitialEnergyToFinishTasks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PartitionLabels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\JAVA\leetcode\src2\PartitionLabels.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ScoreAfterFlippingMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\JAVA\leetcode\src2\ScoreAfterFlippingMatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pySrc/sort/insertion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,21 +167,65 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="selection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pySrc/sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pySrc/sort/selection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pySrc/sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pySrc/sort/shell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.leetcode" />
-      <item itemvalue="Python.MinimumInitialEnergyToFinishTasks" />
-      <item itemvalue="Python.PartitionLabels" />
-      <item itemvalue="Python.ScoreAfterFlippingMatrix" />
       <item itemvalue="Python.LastStoneWeight" />
       <item itemvalue="Python.CouplesHoldingHands" />
+      <item itemvalue="Python.selection" />
+      <item itemvalue="Python.insertion" />
+      <item itemvalue="Python.shell" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shell" />
+        <item itemvalue="Python.insertion" />
+        <item itemvalue="Python.selection" />
         <item itemvalue="Python.CouplesHoldingHands" />
         <item itemvalue="Python.LastStoneWeight" />
-        <item itemvalue="Python.ScoreAfterFlippingMatrix" />
-        <item itemvalue="Python.PartitionLabels" />
-        <item itemvalue="Python.MinimumInitialEnergyToFinishTasks" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +374,7 @@
       <workItem from="1606788404642" duration="11297000" />
       <workItem from="1606892580482" duration="25824000" />
       <workItem from="1607050447083" duration="21669000" />
-      <workItem from="1607245632781" duration="396000" />
+      <workItem from="1607245632781" duration="11659000" />
     </task>
     <servers />
   </component>
@@ -527,54 +418,54 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2180" y="524" width="1848" height="425" key="GridCell.Tab.-1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606803345878" />
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1607155597630">
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom" timestamp="1607331338998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047498" />
     <state width="1877" height="453" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607155597630" />
-    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1607155597629">
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607331338998" />
+    <state width="1493" height="231" key="GridCell.Tab.0.center" timestamp="1607331338998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="162" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047498" />
     <state width="1877" height="453" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
-    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607155597629" />
-    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1607155597629">
+    <state width="1493" height="231" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607331338998" />
+    <state width="1493" height="231" key="GridCell.Tab.0.left" timestamp="1607331338998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="162" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047498" />
     <state width="1877" height="453" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
-    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607155597629" />
-    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1607155597629">
+    <state width="1493" height="231" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607331338998" />
+    <state width="1493" height="231" key="GridCell.Tab.0.right" timestamp="1607331338998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="162" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047498" />
     <state width="1877" height="453" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
-    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607155597629" />
-    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.bottom" timestamp="1607155597600">
+    <state width="1493" height="231" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607331338998" />
+    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.bottom" timestamp="1607331336770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="343" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047490" />
     <state x="1920" y="232" width="1877" height="453" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
-    <state width="1493" height="231" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607155597600" />
-    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.center" timestamp="1607155597599">
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607331336770" />
+    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.center" timestamp="1607331336770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="343" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047490" />
     <state x="1920" y="232" width="1877" height="453" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
-    <state width="1493" height="231" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607155597599" />
-    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.left" timestamp="1607155597598">
+    <state width="1493" height="231" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607331336770" />
+    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.left" timestamp="1607331336769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="343" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047490" />
     <state x="1920" y="232" width="1877" height="453" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
-    <state width="1493" height="231" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607155597598" />
-    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.right" timestamp="1607155597600">
+    <state width="1493" height="231" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607331336769" />
+    <state x="1920" y="232" width="1493" height="231" key="GridCell.Tab.1.right" timestamp="1607331336770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="343" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606726047490" />
     <state x="1920" y="232" width="1877" height="453" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805301036" />
-    <state width="1493" height="231" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607155597600" />
+    <state width="1493" height="231" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607331336770" />
     <state x="1920" y="232" width="1848" height="425" key="GridCell.Tab.2.bottom" timestamp="1606790992989">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -616,129 +507,144 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604492002644" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607068272457">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607308164865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2459" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805417834" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607068272457" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607308164865" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/DivisorGame.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/DivisorGame.py</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/CountSortedVowelStrings.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/CountSortedVowelStrings.py</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/ReducingDishes.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/ReducingDishes.py</url>
           <line>9</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/MinimumPathSum.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/MinimumPathSum.py</url>
           <line>22</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/MinimumPathSum.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/MinimumPathSum.py</url>
           <line>12</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/TheGreatestValueOfGifts.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/TheGreatestValueOfGifts.py</url>
           <line>11</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
           <line>13</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
           <line>43</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIV.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/BestTimeToBuyAndSellStockIV.py</url>
           <line>28</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIV.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/BestTimeToBuyAndSellStockIV.py</url>
           <line>26</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIV.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/BestTimeToBuyAndSellStockIV.py</url>
           <line>21</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithCooldown.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/BestTimeToBuyAndSellStockWithCooldown.py</url>
           <line>16</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/CutTheRope.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/CutTheRope.py</url>
           <line>8</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/Triangle.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/Triangle.py</url>
           <line>16</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/Triangle.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/Triangle.py</url>
           <line>66</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/SplitAStringInBalancedStrings.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/SplitAStringInBalancedStrings.py</url>
           <line>15</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/WaterBottles.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/WaterBottles.py</url>
           <line>8</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py</url>
           <line>17</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/MinimumInitialEnergyToFinishTasks.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/MinimumInitialEnergyToFinishTasks.py</url>
           <line>22</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/PartitionLabels.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/PartitionLabels.py</url>
           <line>11</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/ScoreAfterFlippingMatrix.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/ScoreAfterFlippingMatrix.py</url>
           <line>18</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/LastStoneWeight.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/LastStoneWeight.py</url>
           <line>15</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src2/CouplesHoldingHands.py</url>
+          <url>file://$PROJECT_DIR$/pySrc/CouplesHoldingHands.py</url>
           <line>13</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pySrc/sort/insertion.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pySrc/sort/shell.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pySrc/sort/shell.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -764,14 +670,17 @@
     <SUITE FILE_PATH="coverage/leetcode$PartitionLabels.coverage" NAME="PartitionLabels Coverage Results" MODIFIED="1607144592527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$LastStoneWeight.coverage" NAME="LastStoneWeight Coverage Results" MODIFIED="1607147916450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$IsSubsequence.coverage" NAME="IsSubsequence Coverage Results" MODIFIED="1606725027269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$selection.coverage" NAME="selection Coverage Results" MODIFIED="1607310061089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pySrc/sort" />
     <SUITE FILE_PATH="coverage/leetcode$TheMasseuse.coverage" NAME="TheMasseuse Coverage Results" MODIFIED="1606650454854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$ReducingDishes.coverage" NAME="ReducingDishes Coverage Results" MODIFIED="1606805301021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$BestTimeToBuyAndSellStockWithCooldown.coverage" NAME="BestTimeToBuyAndSellStockWithCooldown Coverage Results" MODIFIED="1606978417380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$Triangle.coverage" NAME="Triangle Coverage Results" MODIFIED="1607057797371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$CouplesHoldingHands.coverage" NAME="CouplesHoldingHands Coverage Results" MODIFIED="1607151113475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$insertion.coverage" NAME="insertion Coverage Results" MODIFIED="1607312388923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pySrc/sort" />
     <SUITE FILE_PATH="coverage/leetcode$best_time_to_buy_and_sell_stock_with_transaction_fee.coverage" NAME="best-time-to-buy-and-sell-stock-with-transaction-fee Coverage Results" MODIFIED="1606917541201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$ScoreAfterFlippingMatrix.coverage" NAME="ScoreAfterFlippingMatrix Coverage Results" MODIFIED="1607146389310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MinimumInitialEnergyToFinishTasks.coverage" NAME="MinimumInitialEnergyToFinishTasks Coverage Results" MODIFIED="1607085824204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$shell.coverage" NAME="shell Coverage Results" MODIFIED="1607331336644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pySrc/sort" />
     <SUITE FILE_PATH="coverage/leetcode$GroupThePeopleGivenTheGroupSizeTheyBelongTo.coverage" NAME="GroupThePeopleGivenTheGroupSizeTheyBelongTo Coverage Results" MODIFIED="1607073704845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$TheGreatestValueOfGifts.coverage" NAME="TheGreatestValueOfGifts Coverage Results" MODIFIED="1606912596608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$MinimumPathSum.coverage" NAME="MinimumPathSum Coverage Results" MODIFIED="1606912293749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
