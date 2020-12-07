@@ -2,373 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e62491-5b83-451f-9d07-d64444ec8456" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStockIII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithCooldown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClimbingStairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountSortedVowelStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CouplesHoldingHands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CutTheRope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CutTheRope2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeleteColumnsToMakeSorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DivisorGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HouseRobber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HouseRobberII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HouseRobberIII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IsSubsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LastStoneWeight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatrixBlockSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumSumOfContinuousSubarrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumInitialEnergyToFinishTasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumPathSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PartitionLabels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RangeSumQueryImmutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReducingDishes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScoreAfterFlippingMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SplitAStringInBalancedStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StoneGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheGreatestValueOfGifts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheMasseuse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreeStepsProblemLCCI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WaterBottles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ANumberThatOccursMoreThanHalfTheTimeInAnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/AddBinary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/AddDigits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/AddWithoutPlusLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ArrangingCoins.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/AverageOfLevelsInBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/AverageSalaryExcludingTheMinimumAndMaximumSalary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/BackspaceStringCompare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/BaseballGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/BinaryGap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/BinaryNumberWithAlternatingBits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/BinaryTreeTilt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/BinaryWatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Bucket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/BuildAnArrayWithStackOperations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CanMakeArithmeticProgressionFromSequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CheckBalanceLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ComplementOfBase10Integer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ConstructStringFromBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ConstructTheRectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ConvertANumberToHexadecimal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ConvertIntegerLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ConvertIntegerToTheSumOfTwoNoZeroIntegers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CountGoodTriplets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CountOddNumbersInAnIntervalRange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CountPrimes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CousinsInBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CrawlerLogFolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/CustomFunction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DIStringMatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DayOfTheYear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DepthOfBinaryTree$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DepthOfBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DesignHashMap$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DesignHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DesignHashSet$MyHashSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DesignHashSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DesignParkingSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DetectPatternOfLengthMRepeatedKOrMoreTimes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DistributeCandies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/DivisorGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/EmployeeImportance$Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/EmployeeImportance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ExcelSheetColumnNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ExcelSheetColumnTitle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ExchangeLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/FactorialTrailingZeroes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/FactorialZerosLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/FinalPricesWithASpecialDiscountInAShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/FindModeInBinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/FindPositiveIntegerSolutionForAGivenEquation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/FindTheDifference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/FirstUniqueCharacterInAString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/GuessNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/HammingDistance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/HappyNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ImplementQueueUsingStacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ImplementQueueUsingStacksLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ImplementStackUsingQueues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ImplementTheQueueWithTwoStacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/IncreasingOrderSearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/InsertIntoBitsLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/IntersectionOfTwoArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/IslandPerimeter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/IsomorphicStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/JewelsAndStones.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/KeyboardRow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/KidsWithTheGreatestNumberOfCandies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/KthMissingPositiveNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LargestPerimeterTriangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Leaf_SimilarTrees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LongestHarmoniousSubsequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LongestPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LongestWordInDictionary$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LongestWordInDictionary$TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/LongestWordInDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MakeTheStringGreat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MakeTwoArraysEqualByReversingSubArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MatrixCellsInDistanceOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MatrixDiagonalSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Maximum69Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MaximumDepthOfN_aryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MaximumLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MaximumNumberOfBalloons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MaximumProductOfTwoElementsInAnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MergeTwoBinaryTrees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinStack$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinStackLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinimumAbsoluteDifferenceInBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinimumDistanceBetweenBSTNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinimumHeightTreeLCCI$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinimumHeightTreeLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinimumIndexSumOfTwoLists.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinimumMovesToEqualArrayElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MinimumValueToGetPositiveStepByStepSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MirrorOfBinaryTree$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MirrorOfBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MostVisitedSectorInACircularTrack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/MyHashSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NRepeatedElementInSize2NArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/N_aryTreePostorderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/N_aryTreePreorderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NearestCommonAncestorOfBinaryTreeNearestCommonAncestorOfBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NextGreaterElementI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NumberComplement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NumberOf1Bits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NumberOf1BitsLCOF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NumberOfBoomerangs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NumberOfGoodPairs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NumberOfStepsToReduceANumberToZero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/NumberOfStudentsDoingHomeworkAtAGivenTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/OccurrencesAfterBigram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PalindromePermutationLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PerfectNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PowerOfFour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PowerOfThree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PowerOfTwo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PowerfulIntegers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PrimeArrangements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PrimeNumberOfSetBitsInBinaryRepresentation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PrintBinaryTreeFromTopToBottomII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PrintFrom1ToTheLargestNDigits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/PrintTheLinkedListFromEndToBeginning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ProjectionAreaOf3DShapes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/RangeAdditionII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/RangeSumOfBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/RemoveAllAdjacentDuplicatesInString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ReverseBits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ReverseBitsLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ReverseVowelsOfAString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/RunningSumOf1dArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SearchInABinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SelfDividingNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SetMismatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ShortestCompletingWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ShuffleTheArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SingleNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SmallestRangeI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SortIntegersByTheNumberOf1Bits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SpecialPositionsInABinaryMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/StackContainingMinFunctionLCOF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SubdomainVisitCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SubtractTheProductAndSumOfDigitsOfAnInteger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SubtreeOfAnotherTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SumOfAllOddLengthSubarrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SumOfRootToLeafBinaryNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/SumOfTwoIntegers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/TheFirstCharacterThatAppearsOnlyOnce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/TheNearestCommonAncestorsOrOfBinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Thek_thLargestNodeOfTheBinarySearchTreeLCOF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ThreeConsecutiveOdds.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/TrimABinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/TwoSumIVInputIsABST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/UglyNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/UncommonWordsFromTwoSentences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/UniqueNumberOfOccurrences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/UnivaluedBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ValidAnagram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ValidBoomerang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ValidPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/ValidPerfectSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/VerifyingAnAlienDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/WordPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/XOROperationInAnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/iNodeLCCI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ANumberThatOccursMoreThanHalfTheTimeInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddWithoutPlusLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrangingCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageOfLevelsInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageSalaryExcludingTheMinimumAndMaximumSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackspaceStringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseballGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryNumberWithAlternatingBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeTilt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuildAnArrayWithStackOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CanMakeArithmeticProgressionFromSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckBalanceLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComplementOfBase10Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructStringFromBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructTheRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertANumberToHexadecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertIntegerLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertIntegerToTheSumOfTwoNoZeroIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountGoodTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountOddNumbersInAnIntervalRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountingBits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CousinsInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CrawlerLogFolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIStringMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DayOfTheYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignParkingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DetectPatternOfLengthMRepeatedKOrMoreTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DistributeCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivisorGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmployeeImportance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExchangeLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorialTrailingZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorialZerosLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinalPricesWithASpecialDiscountInAShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindModeInBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindPositiveIntegerSolutionForAGivenEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindTheDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstUniqueCharacterInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuessNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImplementQueueUsingStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImplementQueueUsingStacksLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImplementStackUsingQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImplementTheQueueWithTwoStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IncreasingOrderSearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertIntoBitsLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoArrays2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IslandPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsomorphicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JewelsAndStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KeyboardRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KidsWithTheGreatestNumberOfCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthMissingPositiveNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestPerimeterTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestTriangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leaf_SimilarTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestHarmoniousSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestWordInDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MakeTheStringGreat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MakeTwoArraysEqualByReversingSubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixDiagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maximum69Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumDepthOfN_aryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumNumberOfBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumProductOfTwoElementsInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinStackLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumAbsoluteDifferenceInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumDistanceBetweenBSTNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumHeightTreeLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumIndexSumOfTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumMovesToEqualArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumValueToGetPositiveStepByStepSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MirrorOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MostVisitedSectorInACircularTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NRepeatedElementInSize2NArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N_aryTreePostorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N_aryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NearestCommonAncestorOfBinaryTreeNearestCommonAncestorOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NextGreaterElementI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberComplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOf1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOf1BitsLCOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfBoomerangs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfGoodPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfStepsToReduceANumberToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfStudentsDoingHomeworkAtAGivenTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OccurrencesAfterBigram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromePermutationLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerOfFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerfulIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeArrangements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumberOfSetBitsInBinaryRepresentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintBinaryTreeFromTopToBottomII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintFrom1ToTheLargestNDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintTheLinkedListFromEndToBeginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectionAreaOf3DShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RangeAdditionII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RangeSumOfBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveOutermostParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseBitsLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseVowelsOfAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RunningSumOf1dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchInABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelfDividingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetMismatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortestCompletingWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShuffleTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmallestRangeI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortIntegersByTheNumberOf1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpecialPositionsInABinaryMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackContainingMinFunctionLCOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubdomainVisitCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubtractTheProductAndSumOfDigitsOfAnInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubtreeOfAnotherTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfAllOddLengthSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfRootToLeafBinaryNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfTwoIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TheFirstCharacterThatAppearsOnlyOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TheNearestCommonAncestorsOrOfBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thek_thLargestNodeOfTheBinarySearchTreeLCOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreeConsecutiveOdds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrimABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSumIVInputIsABST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UncommonWordsFromTwoSentences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniqueNumberOfOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnivaluedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidBoomerang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VerifyingAnAlienDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XOROperationInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iNodeLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BalancedBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BalancedBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SymmetricTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-bitAnd2-bitCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/1-bitAnd2-bitCharacters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddToArray-FormOfInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/AddToArray-FormOfInteger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPartition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ArrayPartition1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AvailableCapturesForRook.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/AvailableCapturesForRook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStock.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStock2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStock2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStockIII.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithCooldown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithCooldown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithTransactionFee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryPrefixDivisibleBy5.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BinaryPrefixDivisibleBy5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/BinarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CanPlaceFlowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CanPlaceFlowers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClimbingStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ClimbingStairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoinChange.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CoinChange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompressStringLCCI.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CompressStringLCCI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContainsDuplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ContainsDuplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContainsDuplicate2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ContainsDuplicate2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountSortedVowelStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CountSortedVowelStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CouplesHoldingHands.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CouplesHoldingHands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CutTheRope.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CutTheRope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CutTheRope2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/CutTheRope2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DegreeOfAnArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DegreeOfAnArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeleteColumnsToMakeSorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DeleteColumnsToMakeSorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiameterOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DiameterOfBinaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DistributeCandiesToPeople.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DistributeCandiesToPeople.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DivisorGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/DivisorGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FairCandySwap.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FairCandySwap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FibonacciNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindAllNumbersDisappearedInArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindAllNumbersDisappearedInArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindCommonCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindCommonCharacters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindFirstAndLastPositionOfElementInSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindPivotIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindPivotIndex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindWordsThatCanBeFormedByCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FindWordsThatCanBeFormedByCharacters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlippingAnImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/FlippingAnImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreatestCommonDivisorOfStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/GreatestCommonDivisorOfStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HouseRobber.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/HouseRobber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HouseRobberII.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/HouseRobberII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HouseRobberIII.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/HouseRobberIII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageSmoother.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ImageSmoother.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImplementStrStr().py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ImplementStrStr().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IsSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/IsSubsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K-diffPairsInAnArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/K-diffPairsInAnArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestNumberAtLeastTwiceOfOthers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LargestNumberAtLeastTwiceOfOthers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastStoneWeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LastStoneWeight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LongestCommonPrefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestContinuousIncreasingSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LongestContinuousIncreasingSubsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestSubstringNoRepeatCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/LongestSubstringNoRepeatCharacters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicSquaresInGrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MagicSquaresInGrid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MajorityElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MajorityElement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixBlockSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MatrixBlockSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxAreaOfIsland.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaxAreaOfIsland.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxConsecutiveOnes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaxConsecutiveOnes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximizeDistanceToClosestPerson.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximizeDistanceToClosestPerson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumAverageSubarray1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumAverageSubarray1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumProductOfThreeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumProductOfThreeNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumSubarry.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumSubarry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumSumOfContinuousSubarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumSumOfContinuousSubarrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumValueOfQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MaximumValueOfQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MedianOfTwoSortedArrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MedianOfTwoSortedArrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MergeSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLinkedLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MergeTwoSortedLinkedLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinCostClimbingStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MinCostClimbingStairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumInitialEnergyToFinishTasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MinimumInitialEnergyToFinishTasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumPathSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MinimumPathSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MissingNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MissingNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MonotonicArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MonotonicArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoveZeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/MoveZeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Non-decreasingArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Non-decreasingArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PairsOfSongsWithTotalDurationsDivisibleBy60.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PairsOfSongsWithTotalDurationsDivisibleBy60.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PalindromeNum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartionArrayIntoThreePartsWithEqualSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PartionArrayIntoThreePartsWithEqualSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartitionLabels.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PartitionLabels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pascal'sTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Pascal'sTriangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pascal'sTriangle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Pascal'sTriangle2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlusOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PlusOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PositionOfLargeGroups.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/PositionOfLargeGroups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RangeSumQueryImmutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RangeSumQueryImmutable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReducingDishes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ReducingDishes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicatesFromSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RemoveDuplicatesFromSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicatesFromSortedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RemoveDuplicatesFromSortedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RemoveElement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReshapeTheMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ReshapeTheMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ReverseInteger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RomanToInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RomanToInteger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RotateArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/RotateArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScoreAfterFlippingMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ScoreAfterFlippingMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchInRotatedSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SearchInRotatedSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchInsertPosition.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SearchInsertPosition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShortedUnsortedContinuousSubarry.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ShortedUnsortedContinuousSubarry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortArrayByParity.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SortArrayByParity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortArrayByParity2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SortArrayByParity2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SplitAStringInBalancedStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SplitAStringInBalancedStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqrt(x).py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Sqrt(x).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SquaresOfASortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SquaresOfASortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StoneGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/StoneGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumIsS_Sequence Of Continuous Positive.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SumIsS_Sequence Of Continuous Positive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOfEvenNumberAfterQueries.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/SumOfEvenNumberAfterQueries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGreatestValueOfGifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TheGreatestValueOfGifts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheMasseuse.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TheMasseuse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdMaximumNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ThirdMaximumNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThreeStepsProblemLCCI.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ThreeStepsProblemLCCI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToeplitzMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ToeplitzMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TransposeMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TransposeMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TwoSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/TwoSum2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValidMountainArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ValidMountainArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValidParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/ValidParentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaterBottles.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/WaterBottles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XOfAKindInADeckOfCards.py" beforeDir="false" afterPath="$PROJECT_DIR$/src2/XOfAKindInADeckOfCards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src2/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.md" beforeDir="false" afterPath="$PROJECT_DIR$/src2/leetcode.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -453,7 +201,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CouplesHoldingHands.py" />
+      <option name="SCRIPT_NAME" value="F:\JAVA\leetcode\src2\CouplesHoldingHands.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,7 +223,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LastStoneWeight.py" />
+      <option name="SCRIPT_NAME" value="F:\JAVA\leetcode\src2\LastStoneWeight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -497,7 +245,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MinimumInitialEnergyToFinishTasks.py" />
+      <option name="SCRIPT_NAME" value="F:\JAVA\leetcode\src2\MinimumInitialEnergyToFinishTasks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -519,7 +267,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PartitionLabels.py" />
+      <option name="SCRIPT_NAME" value="F:\JAVA\leetcode\src2\PartitionLabels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -541,7 +289,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScoreAfterFlippingMatrix.py" />
+      <option name="SCRIPT_NAME" value="F:\JAVA\leetcode\src2\ScoreAfterFlippingMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -735,6 +483,7 @@
       <workItem from="1606788404642" duration="11297000" />
       <workItem from="1606892580482" duration="25824000" />
       <workItem from="1607050447083" duration="21669000" />
+      <workItem from="1607245632781" duration="396000" />
     </task>
     <servers />
   </component>
@@ -877,117 +626,117 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DivisorGame.py</url>
+          <url>file://$PROJECT_DIR$/src2/DivisorGame.py</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CountSortedVowelStrings.py</url>
+          <url>file://$PROJECT_DIR$/src2/CountSortedVowelStrings.py</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ReducingDishes.py</url>
+          <url>file://$PROJECT_DIR$/src2/ReducingDishes.py</url>
           <line>9</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MinimumPathSum.py</url>
+          <url>file://$PROJECT_DIR$/src2/MinimumPathSum.py</url>
           <line>22</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MinimumPathSum.py</url>
+          <url>file://$PROJECT_DIR$/src2/MinimumPathSum.py</url>
           <line>12</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TheGreatestValueOfGifts.py</url>
+          <url>file://$PROJECT_DIR$/src2/TheGreatestValueOfGifts.py</url>
           <line>11</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
+          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
           <line>13</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
+          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithTransactionFee.py</url>
           <line>43</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py</url>
+          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIV.py</url>
           <line>28</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py</url>
+          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIV.py</url>
           <line>26</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockIV.py</url>
+          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockIV.py</url>
           <line>21</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithCooldown.py</url>
+          <url>file://$PROJECT_DIR$/src2/BestTimeToBuyAndSellStockWithCooldown.py</url>
           <line>16</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CutTheRope.py</url>
+          <url>file://$PROJECT_DIR$/src2/CutTheRope.py</url>
           <line>8</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Triangle.py</url>
+          <url>file://$PROJECT_DIR$/src2/Triangle.py</url>
           <line>16</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Triangle.py</url>
+          <url>file://$PROJECT_DIR$/src2/Triangle.py</url>
           <line>66</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SplitAStringInBalancedStrings.py</url>
+          <url>file://$PROJECT_DIR$/src2/SplitAStringInBalancedStrings.py</url>
           <line>15</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/WaterBottles.py</url>
+          <url>file://$PROJECT_DIR$/src2/WaterBottles.py</url>
           <line>8</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py</url>
+          <url>file://$PROJECT_DIR$/src2/GroupThePeopleGivenTheGroupSizeTheyBelongTo.py</url>
           <line>17</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MinimumInitialEnergyToFinishTasks.py</url>
+          <url>file://$PROJECT_DIR$/src2/MinimumInitialEnergyToFinishTasks.py</url>
           <line>22</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/PartitionLabels.py</url>
+          <url>file://$PROJECT_DIR$/src2/PartitionLabels.py</url>
           <line>11</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ScoreAfterFlippingMatrix.py</url>
+          <url>file://$PROJECT_DIR$/src2/ScoreAfterFlippingMatrix.py</url>
           <line>18</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LastStoneWeight.py</url>
+          <url>file://$PROJECT_DIR$/src2/LastStoneWeight.py</url>
           <line>15</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CouplesHoldingHands.py</url>
+          <url>file://$PROJECT_DIR$/src2/CouplesHoldingHands.py</url>
           <line>13</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
